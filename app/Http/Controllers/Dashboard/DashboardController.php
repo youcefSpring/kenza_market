@@ -19,10 +19,10 @@ class DashboardController extends Controller
     public function index()
     {
         $a=[
-         'nbrV' => Document::count(),
-         'nbrP' => Provider::count(),
-         'nbrG'=> StoreManager::count(),
-         'products'=>Product::count()
+         'nbrV' => 0,
+         'nbrP' => 0,
+         'nbrG'=> 0,
+         'products'=>0
         ];
         return view('Dashboard.indexAdmin')->with('a',$a);
     }
