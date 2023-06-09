@@ -20,6 +20,19 @@
 
                     </ul>
         </li>
+        <li class="nav-item"><a href=""><i class="la la-barcode"></i>
+            <span class="menu-title" data-i18n="nav.dash.main"> Les magasins</span>
+            <span {{-- class="badge badge badge-success badge-pill float-right mr-2">{{ \App\Models\Admin::count() }}</span> --}} </a>
+                <ul class="menu-content">
+                    <li >
+
+                        <a class="menu-item" href="{{ route('magasins.index') }}" data-i18n="nav.dash.ecommerce">
+                            La liste</a>
+                    </li>
+
+
+                </ul>
+    </li>
 
     </div>
 </div>

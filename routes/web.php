@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::resource('produits', ProduitController::class);
+Route::resource('magasins', MagasinController::class);
 
 
 Route::view('/','front.index')->name('/');

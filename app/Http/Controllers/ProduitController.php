@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Produit;
+use App\Models\User;
 use App\Models\Magasin;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
@@ -14,8 +15,9 @@ class ProduitController extends Controller
         // return 1;
         $produits = Produit::all();
         $magasins=Magasin::all();
+        $users = User::all();
         // return $produits;
-        return view('Dashboard.produits.index', compact('produits','magasins'));
+        return view('Dashboard.produits.index', compact('produits','magasins','users'));
     }
 
     public function create()

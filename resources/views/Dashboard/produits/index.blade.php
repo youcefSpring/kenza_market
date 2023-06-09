@@ -59,6 +59,7 @@
                                                 <th>Image</th>
                                                 <th>Nom</th>
                                                 <th>Magasin</th>
+                                                {{-- <th>Utilisateur</th> --}}
                                                 <th>Prix</th>
                                                 <th>Quantité</th>
                                                 <th>Actions</th>
@@ -70,6 +71,7 @@
                                                     <td><img src="{{ isset($produit->image) ? asset('uploads/produits/'.$produit->image) : asset('uploads/produits/prod_test.jpeg')}}" height="80" width="80" alt=""></td>
                                                     <td>{{ $produit->nom }}</td>
                                                     <td>{{ $produit->magasin->nom }}</td>
+                                                    {{-- <td>{{isset($produit->user)? $produit->user->name : ''}}</td> --}}
                                                     <td>{{ $produit->prix }}</td>
                                                     <td>{{ $produit->quantite }}</td>
                                                     <td>
@@ -84,7 +86,7 @@
                                                     </td>
                                                 </tr>
 
-                                        </tbody>
+
 
 
 
