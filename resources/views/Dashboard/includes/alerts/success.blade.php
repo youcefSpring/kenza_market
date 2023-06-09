@@ -4,4 +4,15 @@
                     id="type-error">{{Session::get('success')}}
             </button>
     </div>
+
+    <script>
+        // Hide the success message after 2 seconds
+        $(document).ready(function() {
+            setTimeout(function() {
+                $(".btn-success").fadeOut("slow", function() {
+                    $(this).remove();
+                });
+            }, 2000);
+        });
+    </script>
 @endif

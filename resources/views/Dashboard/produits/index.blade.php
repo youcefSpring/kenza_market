@@ -67,7 +67,7 @@
                                         <tbody>
                                             @forelse($produits as $produit)
                                                 <tr>
-                                                    <td><img src="{{ asset('uploads/produits/'.$produit->image)}}" height="80" width="80" alt=""></td>
+                                                    <td><img src="{{ isset($produit->image) ? asset('uploads/produits/'.$produit->image) : asset('uploads/produits/prod_test.jpeg')}}" height="80" width="80" alt=""></td>
                                                     <td>{{ $produit->nom }}</td>
                                                     <td>{{ $produit->magasin->nom }}</td>
                                                     <td>{{ $produit->prix }}</td>
