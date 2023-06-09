@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Dashboard;
 
 use App\Http\Controllers\Controller;
-use App\Models\Product;
+use App\Models\Produit;
 use App\Models\Provider;
 use App\Models\StoreManager;
 use App\Models\Document;
@@ -20,7 +20,7 @@ class DashboardController extends Controller
     {
         $a=[
          'nbrV' => 0,
-         'nbrP' => 0,
+         'nbrP' => Produit::count(),
          'nbrG'=> 0,
          'products'=>0
         ];

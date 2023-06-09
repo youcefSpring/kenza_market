@@ -17,11 +17,11 @@
                                         <h1><i class="la la-file" ></i></h1>
                                     </div>
                                     <div class="col-8 pl-2">
-                                        <h4>عدد المستندات</h4>
+                                        <h4>Produits</h4>
 
                                     </div>
                                     <div class="col-5 text-right">
-                                        <h4 style="color: darkblue"><b>{{ $a['nbrV'] }}</b></h4>
+                                        <h4 style="color: darkblue"><b>{{ $a['nbrP'] }}</b></h4>
                                         {{-- <h6 class="success darken-4">31 <i class="la la-arrow-up"></i></h6> --}}
                                     </div>
                                 </div>

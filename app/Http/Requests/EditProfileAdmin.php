@@ -25,7 +25,7 @@ class EditProfileAdmin extends FormRequest
     {
         return [
             'name' => 'nullable|required|min : 5 |max :20',
-           'email'=>'nullable|required|email|unique:admins,email,'.$this->id,
+           'email'=>'nullable|required|email|unique:users,email,'.$this->id,
            'password'=>'nullable|required',
            'repassword'=>'nullable|required|same:password'
         ];

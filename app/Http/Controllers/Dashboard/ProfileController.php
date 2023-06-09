@@ -14,24 +14,18 @@ class ProfileController extends Controller
 {
 
     public function editProfile (){
+        // return 1;
     $user=Auth::user();
     return view('Dashboard.settings.profile.editProfile', compact('user'));
     }
 
     public function updateProfile(EditProfileAdmin $request){
 
-        // $id= Auth::user()->id;
-        // return $id;
         try{
-       $admin=User::find(auth('admin')->user()->id);
- return $admin;
-
-
-    //    if($request->password != $request->repassword){
-    //     return redirect()->back()->with(['error'=>'   كلمة السر غير متطابقة  ']);
-    //    }
-
-    $admin->update($request->only(['name','email']));
+       $admin=User::find(Auth::user()->id);
+        $admin->nom=$request->name;
+        $admin->email=$request->email;
+    $admin->save();
 
     return redirect()->back()->with(['success'=>'Mise à jour avec succès ']);
 
