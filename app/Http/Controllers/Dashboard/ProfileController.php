@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Dashboard;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\EditProfileAdmin;
 use App\Models\Admin;
+use App\Models\User;
 use Exception;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
@@ -22,8 +23,8 @@ class ProfileController extends Controller
         // $id= Auth::user()->id;
         // return $id;
         try{
-       $admin=Admin::find(Auth::user()->id);
-
+       $admin=User::find(auth('admin')->user()->id);
+ return $admin;
 
 
     //    if($request->password != $request->repassword){

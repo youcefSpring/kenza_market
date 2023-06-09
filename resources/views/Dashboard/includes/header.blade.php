@@ -7,10 +7,10 @@
                         class="nav-link nav-menu-main menu-toggle hidden-xs" href="#"><i
                             class="ft-menu font-large-1"></i></a></li>
                 <li class="nav-item">
-                    <a class="navbar-brand" href="{{ route('stock.dashboard') }}">
+                    <a class="navbar-brand" href="">
                         <img class="brand-logo" alt="modern admin logo"
                             src="{{ asset('assets/admin/images/logo/logo.png') }}">
-                        <h3 class="brand-text"> لوحة القيادة</h3>
+                        <h3 class="brand-text">Tableau de bord</h3>
                     </a>
                 </li>
                 <li class="nav-item d-md-none">
@@ -30,16 +30,16 @@
                 <ul class="nav navbar-nav float-right">
                     <li class="dropdown dropdown-user nav-item">
                         <a class="dropdown-toggle nav-link dropdown-user-link" href="#" data-toggle="dropdown">
-                            <span class="mr-1">مرحبا بك
-                                <span class="user-name text-bold-700"> {{ auth('admin')->user()->name }}</span>
+                            <span class="mr-1">Bienvenue
+                                <span class="user-name text-bold-700"> {{ auth('admin')->user()->nom }}</span>
                             </span>
 
                         </a>
                         <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item"
-                                href="{{ route('admin.editProfile') }}"><i class="ft-user"></i> تعديل الملف الشخصي</a>
+                                href="{{ route('admin.editProfile') }}"><i class="ft-user"></i>   Modifier Profile</a>
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="{{ route('admin.logout') }}"><i class="ft-power"></i>
-                                تسجيل الخروج </a>
+                                Déconnexion  </a>
                         </div>
                     </li>
 

@@ -6,6 +6,9 @@ use Illuminate\Support\Facades\Route;
 // use App\Http\Controllers\Dashboard\DocumentController;
 
 
+Route::resource('produits', ProduitController::class);
+
+
 Route::view('/','front.index')->name('/');
 Route::view('/login','Dashboard.auth.login')->name('/login');
 

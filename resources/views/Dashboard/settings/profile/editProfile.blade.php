@@ -13,7 +13,7 @@
                         <div class="col-md-12">
                             <div class="card">
                                 <div class="card-header">
-                                    <h4 class="card-title" id="basic-layout-form"> تعديل الملف الشخصي </h4>
+                                    <h4 class="card-title" id="basic-layout-form"> Modifier Profile</h4>
                                     <a class="heading-elements-toggle"><i class="la la-ellipsis-v font-medium-3"></i></a>
                                     <div class="heading-elements">
                                         <ul class="list-inline mb-0">
@@ -37,16 +37,16 @@
 
                                             <div class="form-body">
 
-                                                <h4 class="form-section"><i class="ft-home"></i>المعلومات في ملفك الشخصي
-                                                </h4>
+                                                {{-- <h4 class="form-section"><i class="ft-home"></i>المعلومات في ملفك الشخصي
+                                                </h4> --}}
 
 
                                                 <div class="row">
                                                     <div class="col-md-6">
                                                         <div class="form-group">
-                                                            <label for="projectinput1"> اسم </label>
-                                                            <input type="text" value="{{ $user->name }}" id="key"
-                                                                class="form-control" placeholder="{{ $user->name }}  "
+                                                            <label for="projectinput1"> Nom </label>
+                                                            <input type="text" value="{{ $user->nom }}" id="key"
+                                                                class="form-control" placeholder="{{ $user->nom}}  "
                                                                 name="name">
                                                             @error('name')
                                                                 <span class="text-danger">{{ $message }}<span>
@@ -56,7 +56,7 @@
 
                                                     <div class="col-md-6">
                                                         <div class="form-group">
-                                                            <label for="projectinput1"> البريد الإلكتروني </label>
+                                                            <label for="projectinput1"> Email </label>
                                                             <input type="email" value="{{ $user->email }}" id="email"
                                                                 class="form-control" placeholder=" {{ $user->email }} "
                                                                 name="email">
@@ -68,7 +68,7 @@
                                                     </div>
                                                     <div class="col-md-6">
                                                         <div class="form-group">
-                                                            <label for="projectinput1">كلمة السر جديدة </label>
+                                                            <label for="projectinput1">  Nouveau mot de passe </label>
                                                             <input type="password" value="" id="password"
                                                                 class="form-control" placeholder=" Nouveau Mot de passe "
                                                                 name="password">
@@ -80,7 +80,7 @@
                                                     </div>
                                                     <div class="col-md-6">
                                                         <div class="form-group">
-                                                            <label for="projectinput1"> تأكيد كلمة السر </label>
+                                                            <label for="projectinput1">  confirmation  </label>
                                                             <input type="password" value="" id="repassword"
                                                                 class="form-control" placeholder="Confirmation mot de passe"
                                                                 name="repassword">
@@ -96,10 +96,10 @@
                                                 <div class="form-actions">
                                                     <button type="button" class="btn btn-danger mr-1"
                                                         onclick="history.back();">
-                                                        <i class="la la-trash"></i>إلغاء
+                                                        <i class="la la-trash"></i>Annuler
                                                     </button>
                                                     <button type="submit" class="btn btn-primary">
-                                                        <i class="la la-save"></i> حفظ
+                                                        <i class="la la-save"></i> Sauvegarder
                                                     </button>
                                                 </div>
                                         </form>
