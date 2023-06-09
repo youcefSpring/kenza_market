@@ -12,7 +12,7 @@
                 $(".btn-success").fadeOut("slow", function() {
                     $(this).remove();
                 });
-            }, 2000);
+            }, 500);
         });
     </script>
 @endif
