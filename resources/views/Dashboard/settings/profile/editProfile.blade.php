@@ -1,6 +1,11 @@
 @extends('layouts.admin')
 
 @section('content')
+<style>
+    #cure{
+        border-radius: 40%;
+    }
+</style>
     <div class="app-content content">
         <div class="content-wrapper">
             <div class="content-body">
@@ -90,7 +95,7 @@
                                                     </div>
                                                     <div class="col-md-6">
                                                         @if ($user->avatar)
-                                                        <div class="form-group">
+                                                        <div class="form-group " id="cure">
                                                             <label for="projectinput6">Image actuelle</label>
                                                             <div class="avatar-wrapper">
                                                                 <img id="current-image"

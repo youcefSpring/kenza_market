@@ -30,11 +30,12 @@
                 <ul class="nav navbar-nav float-right">
                     <li class="dropdown dropdown-user nav-item">
                         <a class="dropdown-toggle nav-link dropdown-user-link" href="#" data-toggle="dropdown">
-                            <span class="mr-1">Bienvenue
-                                <span class="user-name text-bold-700"> {{ auth('admin')->user()->nom }}</span>
+                            <span class="mr-1">
+                                <img src="{{ asset('uploads/avatars/' . auth('admin')->user()->avatar) }}" class="" alt="Avatar" height="50" width="50" style="border-radius: 100%;">
+                                <span class="user-name text-bold-700">{{ auth('admin')->user()->nom }}</span>
                             </span>
-
                         </a>
+
                         <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item"
                                 href="{{ route('admin.editProfile') }}"><i class="ft-user"></i>   Modifier Profile</a>
                             <div class="dropdown-divider"></div>
