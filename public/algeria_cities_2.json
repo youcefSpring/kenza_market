@@ -1,0 +1,5753 @@
+[
+{
+    "id": 1004,
+    "commune_name_ascii": "Berhoum",
+    "commune_name": "برهوم",
+    "daira_name_ascii": "Magra",
+    "daira_name": "مقرة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1009,
+    "commune_name_ascii": "Dehahna",
+    "commune_name": "دهاهنة",
+    "daira_name_ascii": "Magra",
+    "daira_name": "مقرة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1018,
+    "commune_name_ascii": "Magra",
+    "commune_name": "مقرة",
+    "daira_name_ascii": "Magra",
+    "daira_name": "مقرة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1002,
+    "commune_name_ascii": "Beni Ilmane",
+    "commune_name": "بني يلمان",
+    "daira_name_ascii": "Sidi Aissa",
+    "daira_name": "سيدي عيسى",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1007,
+    "commune_name_ascii": "Bouti Sayeh",
+    "commune_name": "بوطي السايح",
+    "daira_name_ascii": "Sidi Aissa",
+    "daira_name": "سيدي عيسى",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1033,
+    "commune_name_ascii": "Sidi Aissa",
+    "commune_name": "سيدي عيسى",
+    "daira_name_ascii": "Sidi Aissa",
+    "daira_name": "سيدي عيسى",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 995,
+    "commune_name_ascii": "Ain El Hadjel",
+    "commune_name": "عين الحجل",
+    "daira_name_ascii": "Ain El Hadjel",
+    "daira_name": "عين الحجل",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1035,
+    "commune_name_ascii": "Sidi Hadjeres",
+    "commune_name": "سيدي هجرس",
+    "daira_name_ascii": "Ain El Hadjel",
+    "daira_name": "عين الحجل",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1006,
+    "commune_name_ascii": "Bou Saada",
+    "commune_name": "بوسعادة",
+    "daira_name_ascii": "Bousaada",
+    "daira_name": "بوسعادة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1011,
+    "commune_name_ascii": "El Hamel",
+    "commune_name": "الهامل",
+    "daira_name_ascii": "Bousaada",
+    "daira_name": "بوسعادة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1032,
+    "commune_name_ascii": "Oulteme",
+    "commune_name": "ولتام",
+    "daira_name_ascii": "Bousaada",
+    "daira_name": "بوسعادة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1003,
+    "commune_name_ascii": "Benzouh",
+    "commune_name": "بن زوه",
+    "daira_name_ascii": "Ouled Sidi Brahim",
+    "daira_name": "أولاد سيدي ابراهيم",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1030,
+    "commune_name_ascii": "Ouled Sidi Brahim",
+    "commune_name": "أولاد سيدي ابراهيم",
+    "daira_name_ascii": "Ouled Sidi Brahim",
+    "daira_name": "أولاد سيدي ابراهيم",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1034,
+    "commune_name_ascii": "Sidi Ameur",
+    "commune_name": "سيدي عامر",
+    "daira_name_ascii": "Sidi Ameur",
+    "daira_name": "سيدي عامر",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1039,
+    "commune_name_ascii": "Tamsa",
+    "commune_name": "تامسة",
+    "daira_name_ascii": "Sidi Ameur",
+    "daira_name": "سيدي عامر",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1001,
+    "commune_name_ascii": "Ben Srour",
+    "commune_name": "بن سرور",
+    "daira_name_ascii": "Ben Srour",
+    "daira_name": "بن سرور",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1022,
+    "commune_name_ascii": "Mohamed Boudiaf",
+    "commune_name": "محمد بوضياف",
+    "daira_name_ascii": "Ben Srour",
+    "daira_name": "بن سرور",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1031,
+    "commune_name_ascii": "Ouled Slimane",
+    "commune_name": "أولاد سليمان",
+    "daira_name_ascii": "Ben Srour",
+    "daira_name": "بن سرور",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1041,
+    "commune_name_ascii": "Zarzour",
+    "commune_name": "زرزور",
+    "daira_name_ascii": "Ben Srour",
+    "daira_name": "بن سرور",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 996,
+    "commune_name_ascii": "Ain El Melh",
+    "commune_name": "عين الملح",
+    "daira_name_ascii": "Ain El Melh",
+    "daira_name": "عين الملح",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 997,
+    "commune_name_ascii": "Ain Fares",
+    "commune_name": "عين فارس",
+    "daira_name_ascii": "Ain El Melh",
+    "daira_name": "عين الملح",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 999,
+    "commune_name_ascii": "Ain Rich",
+    "commune_name": "عين الريش",
+    "daira_name_ascii": "Ain El Melh",
+    "daira_name": "عين الملح",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1005,
+    "commune_name_ascii": "Bir Foda",
+    "commune_name": "بئر فضة",
+    "daira_name_ascii": "Ain El Melh",
+    "daira_name": "عين الملح",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1036,
+    "commune_name_ascii": "Sidi M'hamed",
+    "commune_name": "سيدي امحمد",
+    "daira_name_ascii": "Ain El Melh",
+    "daira_name": "عين الملح",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1020,
+    "commune_name_ascii": "Medjedel",
+    "commune_name": "امجدل",
+    "daira_name_ascii": "Medjedel",
+    "daira_name": "امجدل",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1021,
+    "commune_name_ascii": "Menaa",
+    "commune_name": "مناعة",
+    "daira_name_ascii": "Medjedel",
+    "daira_name": "امجدل",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1010,
+    "commune_name_ascii": "Djebel Messaad",
+    "commune_name": "جبل مساعد",
+    "daira_name_ascii": "Djebel Messaad",
+    "daira_name": "جبل مساعد",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1037,
+    "commune_name_ascii": "Slim",
+    "commune_name": "سليم",
+    "daira_name_ascii": "Djebel Messaad",
+    "daira_name": "جبل مساعد",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1023,
+    "commune_name_ascii": "M'sila",
+    "commune_name": "المسيلة",
+    "daira_name_ascii": "M'sila",
+    "daira_name": "المسيلة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1013,
+    "commune_name_ascii": "Hammam Dalaa",
+    "commune_name": "حمام الضلعة",
+    "daira_name_ascii": "Hammam Dalaa",
+    "daira_name": "حمام الضلعة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1025,
+    "commune_name_ascii": "Ouanougha",
+    "commune_name": "ونوغة",
+    "daira_name_ascii": "Hammam Dalaa",
+    "daira_name": "حمام الضلعة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1029,
+    "commune_name_ascii": "Ouled Mansour",
+    "commune_name": "أولاد منصور",
+    "daira_name_ascii": "Hammam Dalaa",
+    "daira_name": "حمام الضلعة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1040,
+    "commune_name_ascii": "Tarmount",
+    "commune_name": "تارمونت",
+    "daira_name_ascii": "Hammam Dalaa",
+    "daira_name": "حمام الضلعة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1016,
+    "commune_name_ascii": "Maadid",
+    "commune_name": "المعاضيد",
+    "daira_name_ascii": "Ouled Derradj",
+    "daira_name": "أولاد دراج",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1024,
+    "commune_name_ascii": "M'tarfa",
+    "commune_name": "المطارفة",
+    "daira_name_ascii": "Ouled Derradj",
+    "daira_name": "أولاد دراج",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1017,
+    "commune_name_ascii": "Maarif",
+    "commune_name": "معاريف",
+    "daira_name_ascii": "Chellal",
+    "daira_name": "شلال",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1027,
+    "commune_name_ascii": "Ouled Derradj",
+    "commune_name": "أولاد دراج",
+    "daira_name_ascii": "Ouled Derradj",
+    "daira_name": "أولاد دراج",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1038,
+    "commune_name_ascii": "Souamaa",
+    "commune_name": "السوامع",
+    "daira_name_ascii": "Ouled Derradj",
+    "daira_name": "أولاد دراج",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1012,
+    "commune_name_ascii": "El Houamed",
+    "commune_name": "الحوامد",
+    "daira_name_ascii": "Khoubana",
+    "daira_name": "خبانة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1015,
+    "commune_name_ascii": "Khoubana",
+    "commune_name": "خبانة",
+    "daira_name_ascii": "Khoubana",
+    "daira_name": "خبانة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1019,
+    "commune_name_ascii": "M'cif",
+    "commune_name": "مسيف",
+    "daira_name_ascii": "Khoubana",
+    "daira_name": "خبانة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 998,
+    "commune_name_ascii": "Ain Khadra",
+    "commune_name": "عين الخضراء",
+    "daira_name_ascii": "Magra",
+    "daira_name": "مقرة",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1026,
+    "commune_name_ascii": "Ouled Addi Guebala",
+    "commune_name": "أولاد عدي لقبالة",
+    "daira_name_ascii": "Ouled Derradj",
+    "daira_name": "أولاد دراج",
+    "wilaya_code": "28",
+    "wilaya_name_ascii": "M'Sila",
+    "wilaya_name": "المسيلة"
+},
+{
+    "id": 1075,
+    "commune_name_ascii": "Oued El Abtal",
+    "commune_name": "وادي الأبطال",
+    "daira_name_ascii": "Oued El Abtal",
+    "daira_name": "وادي الأبطال",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1081,
+    "commune_name_ascii": "Sidi Abdelmoumene",
+    "commune_name": "سيدي عبد المومن",
+    "daira_name_ascii": "Mohammadia",
+    "daira_name": "المحمدية",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1078,
+    "commune_name_ascii": "Sedjerara",
+    "commune_name": "سجرارة",
+    "daira_name_ascii": "Mohammadia",
+    "daira_name": "المحمدية",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1072,
+    "commune_name_ascii": "Mohammadia",
+    "commune_name": "المحمدية",
+    "daira_name_ascii": "Mohammadia",
+    "daira_name": "المحمدية",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1085,
+    "commune_name_ascii": "Tighennif",
+    "commune_name": "تيغنيف",
+    "daira_name_ascii": "Tighennif",
+    "daira_name": "تيغنيف",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1071,
+    "commune_name_ascii": "Mocta-Douz",
+    "commune_name": "مقطع الدوز",
+    "daira_name_ascii": "Mohammadia",
+    "daira_name": "المحمدية",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1060,
+    "commune_name_ascii": "Ferraguig",
+    "commune_name": "فراقيق",
+    "daira_name_ascii": "Mohammadia",
+    "daira_name": "المحمدية",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1054,
+    "commune_name_ascii": "El Ghomri",
+    "commune_name": "الغمري",
+    "daira_name_ascii": "Mohammadia",
+    "daira_name": "المحمدية",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1087,
+    "commune_name_ascii": "Zahana",
+    "commune_name": "زهانة",
+    "daira_name_ascii": "Zahana",
+    "daira_name": "زهانة",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1053,
+    "commune_name_ascii": "El Gaada",
+    "commune_name": "القعدة",
+    "daira_name_ascii": "Zahana",
+    "daira_name": "زهانة",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1077,
+    "commune_name_ascii": "Ras El Ain Amirouche",
+    "commune_name": "رأس عين عميروش",
+    "daira_name_ascii": "Oggaz",
+    "daira_name": "عقاز",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1074,
+    "commune_name_ascii": "Oggaz",
+    "commune_name": "عقاز",
+    "daira_name_ascii": "Oggaz",
+    "daira_name": "عقاز",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1046,
+    "commune_name_ascii": "Alaimia",
+    "commune_name": "العلايمية",
+    "daira_name_ascii": "Oggaz",
+    "daira_name": "عقاز",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1084,
+    "commune_name_ascii": "Sig",
+    "commune_name": "سيق",
+    "daira_name_ascii": "Sig",
+    "daira_name": "سيق",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1051,
+    "commune_name_ascii": "Chorfa",
+    "commune_name": "الشرفاء",
+    "daira_name_ascii": "Sig",
+    "daira_name": "سيق",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1049,
+    "commune_name_ascii": "Bou Henni",
+    "commune_name": "بوهني",
+    "daira_name_ascii": "Sig",
+    "daira_name": "سيق",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1058,
+    "commune_name_ascii": "El Mamounia",
+    "commune_name": "المأمونية",
+    "daira_name_ascii": "Ain Fares",
+    "daira_name": "عين فارس",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1055,
+    "commune_name_ascii": "El Gueitena",
+    "commune_name": "القطنة",
+    "daira_name_ascii": "Bouhanifia",
+    "daira_name": "بوحنيفية",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1042,
+    "commune_name_ascii": "Ain Fares",
+    "commune_name": "عين فارس",
+    "daira_name_ascii": "Ain Fares",
+    "daira_name": "عين فارس",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1062,
+    "commune_name_ascii": "Gharrous",
+    "commune_name": "غروس",
+    "daira_name_ascii": "Aouf",
+    "daira_name": "عوف",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1048,
+    "commune_name_ascii": "Benian",
+    "commune_name": "بنيان",
+    "daira_name_ascii": "Aouf",
+    "daira_name": "عوف",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1047,
+    "commune_name_ascii": "Aouf",
+    "commune_name": "عوف",
+    "daira_name_ascii": "Aouf",
+    "daira_name": "عوف",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1064,
+    "commune_name_ascii": "Guerdjoum",
+    "commune_name": "قرجوم",
+    "daira_name_ascii": "Oued Taria",
+    "daira_name": "وادي التاغية",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1045,
+    "commune_name_ascii": "Ain Frass",
+    "commune_name": "عين أفرص",
+    "daira_name_ascii": "Ain Fekan",
+    "daira_name": "عين فكان",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1043,
+    "commune_name_ascii": "Ain Fekan",
+    "commune_name": "عين فكان",
+    "daira_name_ascii": "Ain Fekan",
+    "daira_name": "عين فكان",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1066,
+    "commune_name_ascii": "Khalouia",
+    "commune_name": "خلوية",
+    "daira_name_ascii": "El Bordj",
+    "daira_name": "البرج",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1059,
+    "commune_name_ascii": "El Menaouer",
+    "commune_name": "المنور",
+    "daira_name_ascii": "El Bordj",
+    "daira_name": "البرج",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1052,
+    "commune_name_ascii": "El Bordj",
+    "commune_name": "البرج",
+    "daira_name_ascii": "El Bordj",
+    "daira_name": "البرج",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1082,
+    "commune_name_ascii": "Sidi Boussaid",
+    "commune_name": "سيدي بوسعيد",
+    "daira_name_ascii": "Ghriss",
+    "daira_name": "غريس",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1070,
+    "commune_name_ascii": "Matemore",
+    "commune_name": "المطمور",
+    "daira_name_ascii": "Ghriss",
+    "daira_name": "غريس",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1083,
+    "commune_name_ascii": "Sidi Kada",
+    "commune_name": "سيدي قادة",
+    "daira_name_ascii": "Tighennif",
+    "daira_name": "تيغنيف",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1067,
+    "commune_name_ascii": "Makhda",
+    "commune_name": "ماقضة",
+    "daira_name_ascii": "Ghriss",
+    "daira_name": "غريس",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1069,
+    "commune_name_ascii": "Mascara",
+    "commune_name": "معسكر",
+    "daira_name_ascii": "Mascara",
+    "daira_name": "معسكر",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1050,
+    "commune_name_ascii": "Bouhanifia",
+    "commune_name": "بوحنيفية",
+    "daira_name_ascii": "Bouhanifia",
+    "daira_name": "بوحنيفية",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1063,
+    "commune_name_ascii": "Ghriss",
+    "commune_name": "غريس",
+    "daira_name_ascii": "Ghriss",
+    "daira_name": "غريس",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1065,
+    "commune_name_ascii": "Hacine",
+    "commune_name": "حسين",
+    "daira_name_ascii": "Bouhanifia",
+    "daira_name": "بوحنيفية",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1057,
+    "commune_name_ascii": "El Keurt",
+    "commune_name": "القرط",
+    "daira_name_ascii": "Tizi",
+    "daira_name": "تيزي",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1061,
+    "commune_name_ascii": "Froha",
+    "commune_name": "فروحة",
+    "daira_name_ascii": "Tizi",
+    "daira_name": "تيزي",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1086,
+    "commune_name_ascii": "Tizi",
+    "commune_name": "تيزي",
+    "daira_name_ascii": "Tizi",
+    "daira_name": "تيزي",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1079,
+    "commune_name_ascii": "Sehailia",
+    "commune_name": "السهايلية",
+    "daira_name_ascii": "Tighennif",
+    "daira_name": "تيغنيف",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1068,
+    "commune_name_ascii": "Maoussa",
+    "commune_name": "ماوسة",
+    "daira_name_ascii": "Ghriss",
+    "daira_name": "غريس",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1080,
+    "commune_name_ascii": "Sidi Abdeldjebar",
+    "commune_name": "سيدي عبد الجبار",
+    "daira_name_ascii": "Oued El Abtal",
+    "daira_name": "وادي الأبطال",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1056,
+    "commune_name_ascii": "El Hachem",
+    "commune_name": "الحشم",
+    "daira_name_ascii": "Hachem",
+    "daira_name": "الحشم",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1073,
+    "commune_name_ascii": "Nesmot",
+    "commune_name": "نسمط",
+    "daira_name_ascii": "Hachem",
+    "daira_name": "الحشم",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1088,
+    "commune_name_ascii": "Zelamta",
+    "commune_name": "زلامطة",
+    "daira_name_ascii": "Hachem",
+    "daira_name": "الحشم",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1044,
+    "commune_name_ascii": "Ain Ferah",
+    "commune_name": "عين فراح",
+    "daira_name_ascii": "Oued El Abtal",
+    "daira_name": "وادي الأبطال",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1076,
+    "commune_name_ascii": "Oued Taria",
+    "commune_name": "وادي التاغية",
+    "daira_name_ascii": "Oued Taria",
+    "daira_name": "وادي التاغية",
+    "wilaya_code": "29",
+    "wilaya_name_ascii": "Mascara",
+    "wilaya_name": "معسكر"
+},
+{
+    "id": 1101,
+    "commune_name_ascii": "Ouargla",
+    "commune_name": "ورقلة",
+    "daira_name_ascii": "Ouargla",
+    "daira_name": "ورقلة",
+    "wilaya_code": "30",
+    "wilaya_name_ascii": "Ouargla",
+    "wilaya_name": "ورقلة"
+},
+{
+    "id": 1096,
+    "commune_name_ascii": "Hassi Messaoud",
+    "commune_name": "حاسي مسعود",
+    "daira_name_ascii": "Hassi Messaoud",
+    "daira_name": "حاسي مسعود",
+    "wilaya_code": "30",
+    "wilaya_name_ascii": "Ouargla",
+    "wilaya_name": "ورقلة"
+},
+{
+    "id": 1089,
+    "commune_name_ascii": "Ain Beida",
+    "commune_name": "عين البيضاء",
+    "daira_name_ascii": "Sidi Khouiled",
+    "daira_name": "سيدي خويلد",
+    "wilaya_code": "30",
+    "wilaya_name_ascii": "Ouargla",
+    "wilaya_name": "ورقلة"
+},
+{
+    "id": 1095,
+    "commune_name_ascii": "Hassi Ben Abdellah",
+    "commune_name": "حاسي بن عبد الله",
+    "daira_name_ascii": "Sidi Khouiled",
+    "daira_name": "سيدي خويلد",
+    "wilaya_code": "30",
+    "wilaya_name_ascii": "Ouargla",
+    "wilaya_name": "ورقلة"
+},
+{
+    "id": 1103,
+    "commune_name_ascii": "Sidi Khouiled",
+    "commune_name": "سيدي خويلد",
+    "daira_name_ascii": "Sidi Khouiled",
+    "daira_name": "سيدي خويلد",
+    "wilaya_code": "30",
+    "wilaya_name_ascii": "Ouargla",
+    "wilaya_name": "ورقلة"
+},
+{
+    "id": 1093,
+    "commune_name_ascii": "El Borma",
+    "commune_name": "البرمة",
+    "daira_name_ascii": "El Borma",
+    "daira_name": "البرمة",
+    "wilaya_code": "30",
+    "wilaya_name_ascii": "Ouargla",
+    "wilaya_name": "ورقلة"
+},
+{
+    "id": 1102,
+    "commune_name_ascii": "Rouissat",
+    "commune_name": "الرويسات",
+    "daira_name_ascii": "Ouargla",
+    "daira_name": "ورقلة",
+    "wilaya_code": "30",
+    "wilaya_name_ascii": "Ouargla",
+    "wilaya_name": "ورقلة"
+},
+{
+    "id": 1100,
+    "commune_name_ascii": "N'goussa",
+    "commune_name": "انقوسة",
+    "daira_name_ascii": "N'goussa",
+    "daira_name": "انقوسة",
+    "wilaya_code": "30",
+    "wilaya_name_ascii": "Ouargla",
+    "wilaya_name": "ورقلة"
+},
+{
+    "id": 1134,
+    "commune_name_ascii": "Sidi Chami",
+    "commune_name": "سيدي الشحمي",
+    "daira_name_ascii": "Es Senia",
+    "daira_name": "السانية",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1127,
+    "commune_name_ascii": "Hassi Mefsoukh",
+    "commune_name": "حاسي مفسوخ",
+    "daira_name_ascii": "Gdyel",
+    "daira_name": "قديل",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1116,
+    "commune_name_ascii": "Bir El Djir",
+    "commune_name": "بئر الجير",
+    "daira_name_ascii": "Bir El Djir",
+    "daira_name": "بئر الجير",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1125,
+    "commune_name_ascii": "Hassi Ben Okba",
+    "commune_name": "حاسي بن عقبة",
+    "daira_name_ascii": "Bir El Djir",
+    "daira_name": "بئر الجير",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1124,
+    "commune_name_ascii": "Gdyel",
+    "commune_name": "قديل",
+    "daira_name_ascii": "Gdyel",
+    "daira_name": "قديل",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1126,
+    "commune_name_ascii": "Hassi Bounif",
+    "commune_name": "حاسي بونيف",
+    "daira_name_ascii": "Bir El Djir",
+    "daira_name": "بئر الجير",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1122,
+    "commune_name_ascii": "El Kerma",
+    "commune_name": "الكرمة",
+    "daira_name_ascii": "Es Senia",
+    "daira_name": "السانية",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1123,
+    "commune_name_ascii": "Es Senia",
+    "commune_name": "السانية",
+    "daira_name_ascii": "Es Senia",
+    "daira_name": "السانية",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1114,
+    "commune_name_ascii": "Ben Freha",
+    "commune_name": "بن فريحة",
+    "daira_name_ascii": "Gdyel",
+    "daira_name": "قديل",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1113,
+    "commune_name_ascii": "Arzew",
+    "commune_name": "أرزيو",
+    "daira_name_ascii": "Arzew",
+    "daira_name": "أرزيو",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1133,
+    "commune_name_ascii": "Sidi Ben Yebka",
+    "commune_name": "سيدي بن يبقى",
+    "daira_name_ascii": "Arzew",
+    "daira_name": "أرزيو",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1110,
+    "commune_name_ascii": "Ain Biya",
+    "commune_name": "عين البية",
+    "daira_name_ascii": "Bethioua",
+    "daira_name": "بطيوة",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1115,
+    "commune_name_ascii": "Bethioua",
+    "commune_name": "بطيوة",
+    "daira_name_ascii": "Bethioua",
+    "daira_name": "بطيوة",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1128,
+    "commune_name_ascii": "Marsat El Hadjadj",
+    "commune_name": "مرسى الحجاج",
+    "daira_name_ascii": "Bethioua",
+    "daira_name": "بطيوة",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1112,
+    "commune_name_ascii": "Ain Turk",
+    "commune_name": "عين الترك",
+    "daira_name_ascii": "Ain Turk",
+    "daira_name": "عين الترك",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1131,
+    "commune_name_ascii": "Oran",
+    "commune_name": "وهران",
+    "daira_name_ascii": "Oran",
+    "daira_name": "وهران",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1120,
+    "commune_name_ascii": "El Ancor",
+    "commune_name": "العنصر",
+    "daira_name_ascii": "Ain Turk",
+    "daira_name": "عين الترك",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1129,
+    "commune_name_ascii": "Mers El Kebir",
+    "commune_name": "المرسى الكبير",
+    "daira_name_ascii": "Ain Turk",
+    "daira_name": "عين الترك",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1117,
+    "commune_name_ascii": "Boufatis",
+    "commune_name": "بوفاتيس",
+    "daira_name_ascii": "Oued Tlelat",
+    "daira_name": "وادي تليلات",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1121,
+    "commune_name_ascii": "El Braya",
+    "commune_name": "البراية",
+    "daira_name_ascii": "Oued Tlelat",
+    "daira_name": "وادي تليلات",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1132,
+    "commune_name_ascii": "Oued Tlelat",
+    "commune_name": "وادي تليلات",
+    "daira_name_ascii": "Oued Tlelat",
+    "daira_name": "وادي تليلات",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1111,
+    "commune_name_ascii": "Ain Kerma",
+    "commune_name": "عين الكرمة",
+    "daira_name_ascii": "Boutlelis",
+    "daira_name": "بوتليليس",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1119,
+    "commune_name_ascii": "Boutlelis",
+    "commune_name": "بوتليليس",
+    "daira_name_ascii": "Boutlelis",
+    "daira_name": "بوتليليس",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1130,
+    "commune_name_ascii": "Messerghin",
+    "commune_name": "مسرغين",
+    "daira_name_ascii": "Boutlelis",
+    "daira_name": "بوتليليس",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1118,
+    "commune_name_ascii": "Bousfer",
+    "commune_name": "بوسفر",
+    "daira_name_ascii": "Ain Turk",
+    "daira_name": "عين الترك",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1135,
+    "commune_name_ascii": "Tafraoui",
+    "commune_name": "طفراوي",
+    "daira_name_ascii": "Oued Tlelat",
+    "daira_name": "وادي تليلات",
+    "wilaya_code": "31",
+    "wilaya_name_ascii": "Oran",
+    "wilaya_name": "وهران"
+},
+{
+    "id": 1136,
+    "commune_name_ascii": "Ain El Orak",
+    "commune_name": "عين العراك",
+    "daira_name_ascii": "Labiodh Sidi Cheikh",
+    "daira_name": "الأبيض سيدي الشيخ",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1151,
+    "commune_name_ascii": "Krakda",
+    "commune_name": "كراكدة",
+    "daira_name_ascii": "Brezina",
+    "daira_name": "بريزينة",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1154,
+    "commune_name_ascii": "Sidi Slimane",
+    "commune_name": "سيدي سليمان",
+    "daira_name_ascii": "Boualem",
+    "daira_name": "بوعلام",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1153,
+    "commune_name_ascii": "Sidi Ameur",
+    "commune_name": "سيدي عامر",
+    "daira_name_ascii": "Boualem",
+    "daira_name": "بوعلام",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1138,
+    "commune_name_ascii": "Boualem",
+    "commune_name": "بوعلام",
+    "daira_name_ascii": "Boualem",
+    "daira_name": "بوعلام",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1146,
+    "commune_name_ascii": "El Bnoud",
+    "commune_name": "البنود",
+    "daira_name_ascii": "Labiodh Sidi Cheikh",
+    "daira_name": "الأبيض سيدي الشيخ",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1139,
+    "commune_name_ascii": "Bougtoub",
+    "commune_name": "بوقطب",
+    "daira_name_ascii": "Bougtoub",
+    "daira_name": "بوقطب",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1147,
+    "commune_name_ascii": "El Kheiter",
+    "commune_name": "الخيثر",
+    "daira_name_ascii": "Bougtoub",
+    "daira_name": "بوقطب",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1157,
+    "commune_name_ascii": "Tousmouline",
+    "commune_name": "توسمولين",
+    "daira_name_ascii": "Bougtoub",
+    "daira_name": "بوقطب",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1155,
+    "commune_name_ascii": "Sidi Tiffour",
+    "commune_name": "سيدي طيفور",
+    "daira_name_ascii": "Boualem",
+    "daira_name": "بوعلام",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1156,
+    "commune_name_ascii": "Stitten",
+    "commune_name": "ستيتن",
+    "daira_name_ascii": "Boualem",
+    "daira_name": "بوعلام",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1144,
+    "commune_name_ascii": "El Bayadh",
+    "commune_name": "البيض",
+    "daira_name_ascii": "El Bayadh",
+    "daira_name": "البيض",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1152,
+    "commune_name_ascii": "Rogassa",
+    "commune_name": "رقاصة",
+    "daira_name_ascii": "Rogassa",
+    "daira_name": "رقاصة",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1148,
+    "commune_name_ascii": "El Mehara",
+    "commune_name": "المحرة",
+    "daira_name_ascii": "Chellala",
+    "daira_name": "شلالة",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1150,
+    "commune_name_ascii": "Kef El Ahmar",
+    "commune_name": "الكاف الأحمر",
+    "daira_name_ascii": "Rogassa",
+    "daira_name": "رقاصة",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1141,
+    "commune_name_ascii": "Brezina",
+    "commune_name": "بريزينة",
+    "daira_name_ascii": "Brezina",
+    "daira_name": "بريزينة",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1149,
+    "commune_name_ascii": "Ghassoul",
+    "commune_name": "الغاسول",
+    "daira_name_ascii": "Brezina",
+    "daira_name": "بريزينة",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1145,
+    "commune_name_ascii": "Labiodh Sidi Cheikh",
+    "commune_name": "الأبيض سيدي الشيخ",
+    "daira_name_ascii": "Labiodh Sidi Cheikh",
+    "daira_name": "الأبيض سيدي الشيخ",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1140,
+    "commune_name_ascii": "Boussemghoun",
+    "commune_name": "بوسمغون",
+    "daira_name_ascii": "Boussemghoun",
+    "daira_name": "بوسمغون",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1142,
+    "commune_name_ascii": "Cheguig",
+    "commune_name": "الشقيق",
+    "daira_name_ascii": "Rogassa",
+    "daira_name": "رقاصة",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1143,
+    "commune_name_ascii": "Chellala",
+    "commune_name": "شلالة",
+    "daira_name_ascii": "Chellala",
+    "daira_name": "شلالة",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1137,
+    "commune_name_ascii": "Arbaouat",
+    "commune_name": "اربوات",
+    "daira_name_ascii": "Labiodh Sidi Cheikh",
+    "daira_name": "الأبيض سيدي الشيخ",
+    "wilaya_code": "32",
+    "wilaya_name_ascii": "El Bayadh",
+    "wilaya_name": "البيض"
+},
+{
+    "id": 1159,
+    "commune_name_ascii": "Bordj Omar Driss",
+    "commune_name": "برج عمر إدريس",
+    "daira_name_ascii": "In Amenas",
+    "daira_name": "إن أمناس",
+    "wilaya_code": "33",
+    "wilaya_name_ascii": "Illizi",
+    "wilaya_name": "إليزي"
+},
+{
+    "id": 1160,
+    "commune_name_ascii": "Debdeb",
+    "commune_name": "دبداب",
+    "daira_name_ascii": "In Amenas",
+    "daira_name": "إن أمناس",
+    "wilaya_code": "33",
+    "wilaya_name_ascii": "Illizi",
+    "wilaya_name": "إليزي"
+},
+{
+    "id": 1163,
+    "commune_name_ascii": "In Amenas",
+    "commune_name": "إن أمناس",
+    "daira_name_ascii": "In Amenas",
+    "daira_name": "إن أمناس",
+    "wilaya_code": "33",
+    "wilaya_name_ascii": "Illizi",
+    "wilaya_name": "إليزي"
+},
+{
+    "id": 1162,
+    "commune_name_ascii": "Illizi",
+    "commune_name": "إيليزي",
+    "daira_name_ascii": "Illizi",
+    "daira_name": "إيليزي",
+    "wilaya_code": "33",
+    "wilaya_name_ascii": "Illizi",
+    "wilaya_name": "إليزي"
+},
+{
+    "id": 1177,
+    "commune_name_ascii": "Elhammadia",
+    "commune_name": "الحمادية",
+    "daira_name_ascii": "El Hamadia",
+    "daira_name": "الحمادية",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1189,
+    "commune_name_ascii": "Ouled Sidi-Brahim",
+    "commune_name": "أولاد سيدي ابراهيم",
+    "daira_name_ascii": "Mansourah",
+    "daira_name": "المنصورة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1164,
+    "commune_name_ascii": "Ain Taghrout",
+    "commune_name": "عين تاغروت",
+    "daira_name_ascii": "Ain Taghrout",
+    "daira_name": "عين تاغروت",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1197,
+    "commune_name_ascii": "Tixter",
+    "commune_name": "تيكستار",
+    "daira_name_ascii": "Ain Taghrout",
+    "daira_name": "عين تاغروت",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1167,
+    "commune_name_ascii": "Belimour",
+    "commune_name": "بليمور",
+    "daira_name_ascii": "Bordj Ghedir",
+    "daira_name": "برج الغدير",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1176,
+    "commune_name_ascii": "El Annasseur",
+    "commune_name": "العناصر",
+    "daira_name_ascii": "Bordj Ghedir",
+    "daira_name": "برج الغدير",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1180,
+    "commune_name_ascii": "Ghailasa",
+    "commune_name": "غيلاسة",
+    "daira_name_ascii": "Bordj Ghedir",
+    "daira_name": "برج الغدير",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1194,
+    "commune_name_ascii": "Taglait",
+    "commune_name": "تقلعيت",
+    "daira_name_ascii": "Bordj Ghedir",
+    "daira_name": "برج الغدير",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1170,
+    "commune_name_ascii": "Bordj Ghedir",
+    "commune_name": "برج الغدير",
+    "daira_name_ascii": "Bordj Ghedir",
+    "daira_name": "برج الغدير",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1174,
+    "commune_name_ascii": "El Euch",
+    "commune_name": "العش",
+    "daira_name_ascii": "El Hamadia",
+    "daira_name": "الحمادية",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1192,
+    "commune_name_ascii": "Sidi-Embarek",
+    "commune_name": "سيدي أمبارك",
+    "daira_name_ascii": "Bir Kasdali",
+    "daira_name": "بئر قاصد علي",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1183,
+    "commune_name_ascii": "Khelil",
+    "commune_name": "خليل",
+    "daira_name_ascii": "Bir Kasdali",
+    "daira_name": "بئر قاصد علي",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1169,
+    "commune_name_ascii": "Bir Kasdali",
+    "commune_name": "بئر قاصد علي",
+    "daira_name_ascii": "Bir Kasdali",
+    "daira_name": "بئر قاصد علي",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1193,
+    "commune_name_ascii": "Tefreg",
+    "commune_name": "تفرق",
+    "daira_name_ascii": "Djaafra",
+    "daira_name": "جعافرة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1178,
+    "commune_name_ascii": "El Main",
+    "commune_name": "الماين",
+    "daira_name_ascii": "Djaafra",
+    "daira_name": "جعافرة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1173,
+    "commune_name_ascii": "Djaafra",
+    "commune_name": "جعافرة",
+    "daira_name_ascii": "Djaafra",
+    "daira_name": "جعافرة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1172,
+    "commune_name_ascii": "Colla",
+    "commune_name": "القلة",
+    "daira_name_ascii": "Djaafra",
+    "daira_name": "جعافرة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1196,
+    "commune_name_ascii": "Teniet En Nasr",
+    "commune_name": "ثنية النصر",
+    "daira_name_ascii": "Medjana",
+    "daira_name": "مجانة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1179,
+    "commune_name_ascii": "El M'hir",
+    "commune_name": "المهير",
+    "daira_name_ascii": "Mansourah",
+    "daira_name": "المنصورة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1184,
+    "commune_name_ascii": "Ksour",
+    "commune_name": "القصور",
+    "daira_name_ascii": "El Hamadia",
+    "daira_name": "الحمادية",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1185,
+    "commune_name_ascii": "Mansoura",
+    "commune_name": "المنصورة",
+    "daira_name_ascii": "Mansourah",
+    "daira_name": "المنصورة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1181,
+    "commune_name_ascii": "Haraza",
+    "commune_name": "حرازة",
+    "daira_name_ascii": "Mansourah",
+    "daira_name": "المنصورة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1190,
+    "commune_name_ascii": "Rabta",
+    "commune_name": "الرابطة",
+    "daira_name_ascii": "El Hamadia",
+    "daira_name": "الحمادية",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1175,
+    "commune_name_ascii": "El Achir",
+    "commune_name": "الياشير",
+    "daira_name_ascii": "Medjana",
+    "daira_name": "مجانة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1182,
+    "commune_name_ascii": "Hasnaoua",
+    "commune_name": "حسناوة",
+    "daira_name_ascii": "Medjana",
+    "daira_name": "مجانة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1186,
+    "commune_name_ascii": "Medjana",
+    "commune_name": "مجانة",
+    "daira_name_ascii": "Medjana",
+    "daira_name": "مجانة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1165,
+    "commune_name_ascii": "Ain Tesra",
+    "commune_name": "عين تسرة",
+    "daira_name_ascii": "Ras El Oued",
+    "daira_name": "رأس الوادي",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1187,
+    "commune_name_ascii": "Ouled Brahem",
+    "commune_name": "أولاد أبراهم",
+    "daira_name_ascii": "Ras El Oued",
+    "daira_name": "رأس الوادي",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1191,
+    "commune_name_ascii": "Ras El Oued",
+    "commune_name": "رأس الوادي",
+    "daira_name_ascii": "Ras El Oued",
+    "daira_name": "رأس الوادي",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1171,
+    "commune_name_ascii": "Bordj Zemmoura",
+    "commune_name": "برج زمورة",
+    "daira_name_ascii": "Bordj Zemmoura",
+    "daira_name": "برج زمورة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1188,
+    "commune_name_ascii": "Ouled Dahmane",
+    "commune_name": "أولاد دحمان",
+    "daira_name_ascii": "Bordj Zemmoura",
+    "daira_name": "برج زمورة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1195,
+    "commune_name_ascii": "Tassamert",
+    "commune_name": "تسامرت",
+    "daira_name_ascii": "Bordj Zemmoura",
+    "daira_name": "برج زمورة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1166,
+    "commune_name_ascii": "B. B. Arreridj",
+    "commune_name": "برج بوعريرج",
+    "daira_name_ascii": "Bordj Bou Arreridj",
+    "daira_name": "برج بوعريريج",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1168,
+    "commune_name_ascii": "Ben Daoud",
+    "commune_name": "بن داود",
+    "daira_name_ascii": "Mansourah",
+    "daira_name": "المنصورة",
+    "wilaya_code": "34",
+    "wilaya_name_ascii": "Bordj Bou Arreridj",
+    "wilaya_name": "برج بوعريريج"
+},
+{
+    "id": 1212,
+    "commune_name_ascii": "El Kharrouba",
+    "commune_name": "الخروبة",
+    "daira_name_ascii": "Boudouaou",
+    "daira_name": "بودواو",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1210,
+    "commune_name_ascii": "Dellys",
+    "commune_name": "دلس",
+    "daira_name_ascii": "Dellys",
+    "daira_name": "دلس",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1201,
+    "commune_name_ascii": "Ben Choud",
+    "commune_name": "بن شود",
+    "daira_name_ascii": "Dellys",
+    "daira_name": "دلس",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1198,
+    "commune_name_ascii": "Afir",
+    "commune_name": "أعفير",
+    "daira_name_ascii": "Dellys",
+    "daira_name": "دلس",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1226,
+    "commune_name_ascii": "Thenia",
+    "commune_name": "الثنية",
+    "daira_name_ascii": "Thenia",
+    "daira_name": "الثنية",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1202,
+    "commune_name_ascii": "Beni Amrane",
+    "commune_name": "بني عمران",
+    "daira_name_ascii": "Thenia",
+    "daira_name": "الثنية",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1215,
+    "commune_name_ascii": "Khemis El Khechna",
+    "commune_name": "خميس الخشنة",
+    "daira_name_ascii": "Khemis El Khechna",
+    "daira_name": "خميس الخشنة",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1199,
+    "commune_name_ascii": "Ammal",
+    "commune_name": "عمال",
+    "daira_name_ascii": "Thenia",
+    "daira_name": "الثنية",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1228,
+    "commune_name_ascii": "Timezrit",
+    "commune_name": "تيمزريت",
+    "daira_name_ascii": "Isser",
+    "daira_name": "يسر",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1229,
+    "commune_name_ascii": "Zemmouri",
+    "commune_name": "زموري",
+    "daira_name_ascii": "Bordj Menaiel",
+    "daira_name": "برج منايل",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1216,
+    "commune_name_ascii": "Larbatache",
+    "commune_name": "الاربعطاش",
+    "daira_name_ascii": "Khemis El Khechna",
+    "daira_name": "خميس الخشنة",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1214,
+    "commune_name_ascii": "Isser",
+    "commune_name": "يسر",
+    "daira_name_ascii": "Isser",
+    "daira_name": "يسر",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1208,
+    "commune_name_ascii": "Chabet El Ameur",
+    "commune_name": "شعبة العامر",
+    "daira_name_ascii": "Isser",
+    "daira_name": "يسر",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1219,
+    "commune_name_ascii": "Ouled Aissa",
+    "commune_name": "أولاد عيسى",
+    "daira_name_ascii": "Naciria",
+    "daira_name": "الناصرية",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1218,
+    "commune_name_ascii": "Naciria",
+    "commune_name": "الناصرية",
+    "daira_name_ascii": "Naciria",
+    "daira_name": "الناصرية",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1207,
+    "commune_name_ascii": "Bouzegza Keddara",
+    "commune_name": "بوزقزة قدارة",
+    "daira_name_ascii": "Boudouaou",
+    "daira_name": "بودواو",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1224,
+    "commune_name_ascii": "Souk El Had",
+    "commune_name": "سوق الحد",
+    "daira_name_ascii": "Thenia",
+    "daira_name": "الثنية",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1223,
+    "commune_name_ascii": "Sidi Daoud",
+    "commune_name": "سيدي داود",
+    "daira_name_ascii": "Baghlia",
+    "daira_name": "بغلية",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1200,
+    "commune_name_ascii": "Baghlia",
+    "commune_name": "بغلية",
+    "daira_name_ascii": "Baghlia",
+    "daira_name": "بغلية",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1217,
+    "commune_name_ascii": "Leghata",
+    "commune_name": "لقاطة",
+    "daira_name_ascii": "Bordj Menaiel",
+    "daira_name": "برج منايل",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1211,
+    "commune_name_ascii": "Djinet",
+    "commune_name": "جنات",
+    "daira_name_ascii": "Bordj Menaiel",
+    "daira_name": "برج منايل",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1227,
+    "commune_name_ascii": "Tidjelabine",
+    "commune_name": "تيجلابين",
+    "daira_name_ascii": "Boumerdes",
+    "daira_name": "بومرداس",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1222,
+    "commune_name_ascii": "Si Mustapha",
+    "commune_name": "سي مصطفى",
+    "daira_name_ascii": "Isser",
+    "daira_name": "يسر",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1220,
+    "commune_name_ascii": "Ouled Hedadj",
+    "commune_name": "أولاد هداج",
+    "daira_name_ascii": "Boudouaou",
+    "daira_name": "بودواو",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1221,
+    "commune_name_ascii": "Ouled Moussa",
+    "commune_name": "أولاد موسى",
+    "daira_name_ascii": "Khemis El Khechna",
+    "daira_name": "خميس الخشنة",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1206,
+    "commune_name_ascii": "Boumerdes",
+    "commune_name": "بومرداس",
+    "daira_name_ascii": "Boumerdes",
+    "daira_name": "بومرداس",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1209,
+    "commune_name_ascii": "Corso",
+    "commune_name": "قورصو",
+    "daira_name_ascii": "Boumerdes",
+    "daira_name": "بومرداس",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1203,
+    "commune_name_ascii": "Bordj Menaiel",
+    "commune_name": "برج منايل",
+    "daira_name_ascii": "Bordj Menaiel",
+    "daira_name": "برج منايل",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1204,
+    "commune_name_ascii": "Boudouaou",
+    "commune_name": "بودواو",
+    "daira_name_ascii": "Boudouaou",
+    "daira_name": "بودواو",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1205,
+    "commune_name_ascii": "Boudouaou El Bahri",
+    "commune_name": "بودواو البحري",
+    "daira_name_ascii": "Boudouaou",
+    "daira_name": "بودواو",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1225,
+    "commune_name_ascii": "Taourga",
+    "commune_name": "تاورقة",
+    "daira_name_ascii": "Baghlia",
+    "daira_name": "بغلية",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1213,
+    "commune_name_ascii": "Hammedi",
+    "commune_name": "حمادي",
+    "daira_name_ascii": "Khemis El Khechna",
+    "daira_name": "خميس الخشنة",
+    "wilaya_code": "35",
+    "wilaya_name_ascii": "Boumerdès",
+    "wilaya_name": "بومرداس"
+},
+{
+    "id": 1230,
+    "commune_name_ascii": "Ain El Assel",
+    "commune_name": "عين العسل",
+    "daira_name_ascii": "El Tarf",
+    "daira_name": "الطارف",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1236,
+    "commune_name_ascii": "Bougous",
+    "commune_name": "بوقوس",
+    "daira_name_ascii": "El Tarf",
+    "daira_name": "الطارف",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1246,
+    "commune_name_ascii": "El Tarf",
+    "commune_name": "الطارف",
+    "daira_name_ascii": "El Tarf",
+    "daira_name": "الطارف",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1253,
+    "commune_name_ascii": "Zitouna",
+    "commune_name": "الزيتونة",
+    "daira_name_ascii": "El Tarf",
+    "daira_name": "الطارف",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1235,
+    "commune_name_ascii": "Besbes",
+    "commune_name": "البسباس",
+    "daira_name_ascii": "Besbes",
+    "daira_name": "البسباس",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1231,
+    "commune_name_ascii": "Ain Kerma",
+    "commune_name": "عين الكرمة",
+    "daira_name_ascii": "Bouhadjar",
+    "daira_name": "بوحجار",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1237,
+    "commune_name_ascii": "Bouhadjar",
+    "commune_name": "بوحجار",
+    "daira_name_ascii": "Bouhadjar",
+    "daira_name": "بوحجار",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1247,
+    "commune_name_ascii": "Hammam Beni Salah",
+    "commune_name": "حمام بني صالح",
+    "daira_name_ascii": "Bouhadjar",
+    "daira_name": "بوحجار",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1249,
+    "commune_name_ascii": "Oued Zitoun",
+    "commune_name": "وادي الزيتون",
+    "daira_name_ascii": "Bouhadjar",
+    "daira_name": "بوحجار",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1233,
+    "commune_name_ascii": "Ben M Hidi",
+    "commune_name": "بن مهيدي",
+    "daira_name_ascii": "Ben M'hidi",
+    "daira_name": "بن مهيدي",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1234,
+    "commune_name_ascii": "Berrihane",
+    "commune_name": "بريحان",
+    "daira_name_ascii": "Ben M'hidi",
+    "daira_name": "بن مهيدي",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1239,
+    "commune_name_ascii": "Chebaita Mokhtar",
+    "commune_name": "شبيطة مختار",
+    "daira_name_ascii": "Drean",
+    "daira_name": "الذرعان",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1243,
+    "commune_name_ascii": "Echatt",
+    "commune_name": "الشط",
+    "daira_name_ascii": "Ben M'hidi",
+    "daira_name": "بن مهيدي",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1244,
+    "commune_name_ascii": "El Aioun",
+    "commune_name": "العيون",
+    "daira_name_ascii": "El Kala",
+    "daira_name": "القالة",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1245,
+    "commune_name_ascii": "El Kala",
+    "commune_name": "القالة",
+    "daira_name_ascii": "El Kala",
+    "daira_name": "القالة",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1251,
+    "commune_name_ascii": "Souarekh",
+    "commune_name": "السوارخ",
+    "daira_name_ascii": "El Kala",
+    "daira_name": "القالة",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1252,
+    "commune_name_ascii": "Zerizer",
+    "commune_name": "زريزر",
+    "daira_name_ascii": "Besbes",
+    "daira_name": "البسباس",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1238,
+    "commune_name_ascii": "Bouteldja",
+    "commune_name": "بوثلجة",
+    "daira_name_ascii": "Bouteldja",
+    "daira_name": "بوثلجة",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1240,
+    "commune_name_ascii": "Chefia",
+    "commune_name": "الشافية",
+    "daira_name_ascii": "Bouteldja",
+    "daira_name": "بوثلجة",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1248,
+    "commune_name_ascii": "Lac Des Oiseaux",
+    "commune_name": "بحيرة الطيور",
+    "daira_name_ascii": "Bouteldja",
+    "daira_name": "بوثلجة",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1241,
+    "commune_name_ascii": "Chihani",
+    "commune_name": "شحاني",
+    "daira_name_ascii": "Drean",
+    "daira_name": "الذرعان",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1250,
+    "commune_name_ascii": "Raml Souk",
+    "commune_name": "رمل السوق",
+    "daira_name_ascii": "El Kala",
+    "daira_name": "القالة",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1232,
+    "commune_name_ascii": "Asfour",
+    "commune_name": "عصفور",
+    "daira_name_ascii": "Besbes",
+    "daira_name": "البسباس",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1242,
+    "commune_name_ascii": "Drean",
+    "commune_name": "الذرعـان",
+    "daira_name_ascii": "Drean",
+    "daira_name": "الذرعان",
+    "wilaya_code": "36",
+    "wilaya_name_ascii": "El Tarf",
+    "wilaya_name": "الطارف"
+},
+{
+    "id": 1255,
+    "commune_name_ascii": "Tindouf",
+    "commune_name": "تندوف",
+    "daira_name_ascii": "Tindouf",
+    "daira_name": "تندوف",
+    "wilaya_code": "37",
+    "wilaya_name_ascii": "Tindouf",
+    "wilaya_name": "تندوف"
+},
+{
+    "id": 1254,
+    "commune_name_ascii": "Oum El Assel",
+    "commune_name": "أم العسل",
+    "daira_name_ascii": "Tindouf",
+    "daira_name": "تندوف",
+    "wilaya_code": "37",
+    "wilaya_name_ascii": "Tindouf",
+    "wilaya_name": "تندوف"
+},
+{
+    "id": 1262,
+    "commune_name_ascii": "Khemisti",
+    "commune_name": "خميستي",
+    "daira_name_ascii": "Khemisti",
+    "daira_name": "خميستي",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1275,
+    "commune_name_ascii": "Theniet El Had",
+    "commune_name": "ثنية الاحد",
+    "daira_name_ascii": "Theniet El Had",
+    "daira_name": "ثنية الاحد",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1269,
+    "commune_name_ascii": "Ouled Bessam",
+    "commune_name": "أولاد بسام",
+    "daira_name_ascii": "Tissemsilt",
+    "daira_name": "تيسمسيلت",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1271,
+    "commune_name_ascii": "Sidi Boutouchent",
+    "commune_name": "سيدي بوتوشنت",
+    "daira_name_ascii": "Theniet El Had",
+    "daira_name": "ثنية الاحد",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1276,
+    "commune_name_ascii": "Tissemsilt",
+    "commune_name": "تيسمسيلت",
+    "daira_name_ascii": "Tissemsilt",
+    "daira_name": "تيسمسيلت",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1272,
+    "commune_name_ascii": "Sidi Lantri",
+    "commune_name": "سيدي العنتري",
+    "daira_name_ascii": "Lardjem",
+    "daira_name": "لرجام",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1257,
+    "commune_name_ascii": "Beni Chaib",
+    "commune_name": "بني شعيب",
+    "daira_name_ascii": "Bordj Bounaama",
+    "daira_name": "برج بونعامة",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1258,
+    "commune_name_ascii": "Beni Lahcene",
+    "commune_name": "بني لحسن",
+    "daira_name_ascii": "Bordj Bounaama",
+    "daira_name": "برج بونعامة",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1270,
+    "commune_name_ascii": "Sidi Abed",
+    "commune_name": "سيدي عابد",
+    "daira_name_ascii": "Ammari",
+    "daira_name": "عماري",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1273,
+    "commune_name_ascii": "Sidi Slimane",
+    "commune_name": "سيدي سليمان",
+    "daira_name_ascii": "Bordj Bounaama",
+    "daira_name": "برج بونعامة",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1261,
+    "commune_name_ascii": "Boucaid",
+    "commune_name": "بوقائد",
+    "daira_name_ascii": "Lazharia",
+    "daira_name": "الأزهرية",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1263,
+    "commune_name_ascii": "Larbaa",
+    "commune_name": "الأربعاء",
+    "daira_name_ascii": "Lazharia",
+    "daira_name": "الأزهرية",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1266,
+    "commune_name_ascii": "Lazharia",
+    "commune_name": "الأزهرية",
+    "daira_name_ascii": "Lazharia",
+    "daira_name": "الأزهرية",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1264,
+    "commune_name_ascii": "Lardjem",
+    "commune_name": "لرجام",
+    "daira_name_ascii": "Lardjem",
+    "daira_name": "لرجام",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1268,
+    "commune_name_ascii": "Melaab",
+    "commune_name": "الملعب",
+    "daira_name_ascii": "Lardjem",
+    "daira_name": "لرجام",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1265,
+    "commune_name_ascii": "Layoune",
+    "commune_name": "العيون",
+    "daira_name_ascii": "Khemisti",
+    "daira_name": "خميستي",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1274,
+    "commune_name_ascii": "Tamellahet",
+    "commune_name": "تملاحت",
+    "daira_name_ascii": "Lardjem",
+    "daira_name": "لرجام",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1277,
+    "commune_name_ascii": "Youssoufia",
+    "commune_name": "اليوسفية",
+    "daira_name_ascii": "Bordj Emir Abdelkader",
+    "daira_name": "برج الأمير عبد القادر",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1260,
+    "commune_name_ascii": "Bordj El Emir Abdelkader",
+    "commune_name": "برج الأمير عبد القادر",
+    "daira_name_ascii": "Bordj Emir Abdelkader",
+    "daira_name": "برج الأمير عبد القادر",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1256,
+    "commune_name_ascii": "Ammari",
+    "commune_name": "عماري",
+    "daira_name_ascii": "Ammari",
+    "daira_name": "عماري",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1267,
+    "commune_name_ascii": "Maacem",
+    "commune_name": "المعاصم",
+    "daira_name_ascii": "Ammari",
+    "daira_name": "عماري",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1259,
+    "commune_name_ascii": "Bordj Bounaama",
+    "commune_name": "برج بونعامة",
+    "daira_name_ascii": "Bordj Bounaama",
+    "daira_name": "برج بونعامة",
+    "wilaya_code": "38",
+    "wilaya_name_ascii": "Tissemsilt",
+    "wilaya_name": "تيسمسيلت"
+},
+{
+    "id": 1282,
+    "commune_name_ascii": "Douar El Maa",
+    "commune_name": "دوار الماء",
+    "daira_name_ascii": "Taleb Larbi",
+    "daira_name": "الطالب العربي",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1283,
+    "commune_name_ascii": "El Ogla",
+    "commune_name": "العقلة",
+    "daira_name_ascii": "Robbah",
+    "daira_name": "الرباح",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1291,
+    "commune_name_ascii": "Magrane",
+    "commune_name": "المقرن",
+    "daira_name_ascii": "Magrane",
+    "daira_name": "المقرن",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1301,
+    "commune_name_ascii": "Sidi Aoun",
+    "commune_name": "سيدي عون",
+    "daira_name_ascii": "Magrane",
+    "daira_name": "المقرن",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1292,
+    "commune_name_ascii": "Mih Ouansa",
+    "commune_name": "اميه وانسة",
+    "daira_name_ascii": "Mih Ouensa",
+    "daira_name": "اميه وانسة",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1290,
+    "commune_name_ascii": "Kouinine",
+    "commune_name": "كوينين",
+    "daira_name_ascii": "El Oued",
+    "daira_name": "الوادي",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1278,
+    "commune_name_ascii": "Bayadha",
+    "commune_name": "البياضة",
+    "daira_name_ascii": "Bayadha",
+    "daira_name": "البياضة",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1294,
+    "commune_name_ascii": "Nakhla",
+    "commune_name": "النخلة",
+    "daira_name_ascii": "Robbah",
+    "daira_name": "الرباح",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1299,
+    "commune_name_ascii": "Robbah",
+    "commune_name": "الرباح",
+    "daira_name_ascii": "Robbah",
+    "daira_name": "الرباح",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1286,
+    "commune_name_ascii": "Guemar",
+    "commune_name": "قمار",
+    "daira_name_ascii": "Guemar",
+    "daira_name": "قمار",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1279,
+    "commune_name_ascii": "Ben Guecha",
+    "commune_name": "بن  قشة",
+    "daira_name_ascii": "Taleb Larbi",
+    "daira_name": "الطالب العربي",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1297,
+    "commune_name_ascii": "Ourmes",
+    "commune_name": "ورماس",
+    "daira_name_ascii": "Guemar",
+    "daira_name": "قمار",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1304,
+    "commune_name_ascii": "Taghzout",
+    "commune_name": "تغزوت",
+    "daira_name_ascii": "Guemar",
+    "daira_name": "قمار",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1287,
+    "commune_name_ascii": "Hamraia",
+    "commune_name": "الحمراية",
+    "daira_name_ascii": "Reguiba",
+    "daira_name": "الرقيبة",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1298,
+    "commune_name_ascii": "Reguiba",
+    "commune_name": "الرقيبة",
+    "daira_name_ascii": "Reguiba",
+    "daira_name": "الرقيبة",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1280,
+    "commune_name_ascii": "Debila",
+    "commune_name": "الدبيلة",
+    "daira_name_ascii": "Debila",
+    "daira_name": "الدبيلة",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1288,
+    "commune_name_ascii": "Hassani Abdelkrim",
+    "commune_name": "حساني عبد الكريم",
+    "daira_name_ascii": "Debila",
+    "daira_name": "الدبيلة",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1289,
+    "commune_name_ascii": "Hassi Khalifa",
+    "commune_name": "حاسي خليفة",
+    "daira_name_ascii": "Hassi Khalifa",
+    "daira_name": "حاسي خليفة",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1307,
+    "commune_name_ascii": "Trifaoui",
+    "commune_name": "الطريفاوي",
+    "daira_name_ascii": "Hassi Khalifa",
+    "daira_name": "حاسي خليفة",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1305,
+    "commune_name_ascii": "Taleb Larbi",
+    "commune_name": "الطالب العربي",
+    "daira_name_ascii": "Taleb Larbi",
+    "daira_name": "الطالب العربي",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1295,
+    "commune_name_ascii": "Oued El Alenda",
+    "commune_name": "وادي العلندة",
+    "daira_name_ascii": "Mih Ouensa",
+    "daira_name": "اميه وانسة",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1285,
+    "commune_name_ascii": "El-Oued",
+    "commune_name": "الوادي",
+    "daira_name_ascii": "El Oued",
+    "daira_name": "الوادي",
+    "wilaya_code": "39",
+    "wilaya_name_ascii": "El Oued",
+    "wilaya_name": "الوادي"
+},
+{
+    "id": 1321,
+    "commune_name_ascii": "Khirane",
+    "commune_name": "خيران",
+    "daira_name_ascii": "Chechar",
+    "daira_name": "ششار",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1309,
+    "commune_name_ascii": "Babar",
+    "commune_name": "بابار",
+    "daira_name_ascii": "Babar",
+    "daira_name": "بابار",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1316,
+    "commune_name_ascii": "El Mahmal",
+    "commune_name": "المحمل",
+    "daira_name_ascii": "Ouled Rechache",
+    "daira_name": "أولاد رشاش",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1324,
+    "commune_name_ascii": "Ouled Rechache",
+    "commune_name": "أولاد رشاش",
+    "daira_name_ascii": "Ouled Rechache",
+    "daira_name": "أولاد رشاش",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1314,
+    "commune_name_ascii": "Djellal",
+    "commune_name": "جلال",
+    "daira_name_ascii": "Chechar",
+    "daira_name": "ششار",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1328,
+    "commune_name_ascii": "Yabous",
+    "commune_name": "يابوس",
+    "daira_name_ascii": "Bouhmama",
+    "daira_name": "بوحمامة",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1320,
+    "commune_name_ascii": "Khenchela",
+    "commune_name": "خنشلة",
+    "daira_name_ascii": "Khenchela",
+    "daira_name": "خنشلة",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1319,
+    "commune_name_ascii": "Kais",
+    "commune_name": "قايس",
+    "daira_name_ascii": "Kais",
+    "daira_name": "قايس",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1313,
+    "commune_name_ascii": "Chelia",
+    "commune_name": "شلية",
+    "daira_name_ascii": "Bouhmama",
+    "daira_name": "بوحمامة",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1325,
+    "commune_name_ascii": "Remila",
+    "commune_name": "الرميلة",
+    "daira_name_ascii": "Kais",
+    "daira_name": "قايس",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1327,
+    "commune_name_ascii": "Taouzianat",
+    "commune_name": "تاوزيانت",
+    "daira_name_ascii": "Kais",
+    "daira_name": "قايس",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1310,
+    "commune_name_ascii": "Baghai",
+    "commune_name": "بغاي",
+    "daira_name_ascii": "El Hamma",
+    "daira_name": "الحامة",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1315,
+    "commune_name_ascii": "El Hamma",
+    "commune_name": "الحامة",
+    "daira_name_ascii": "El Hamma",
+    "daira_name": "الحامة",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1318,
+    "commune_name_ascii": "Ensigha",
+    "commune_name": "انسيغة",
+    "daira_name_ascii": "El Hamma",
+    "daira_name": "الحامة",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1326,
+    "commune_name_ascii": "Tamza",
+    "commune_name": "طامزة",
+    "daira_name_ascii": "El Hamma",
+    "daira_name": "الحامة",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1308,
+    "commune_name_ascii": "Ain Touila",
+    "commune_name": "عين الطويلة",
+    "daira_name_ascii": "Ain Touila",
+    "daira_name": "عين الطويلة",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1323,
+    "commune_name_ascii": "M'toussa",
+    "commune_name": "متوسة",
+    "daira_name_ascii": "Ain Touila",
+    "daira_name": "عين الطويلة",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1311,
+    "commune_name_ascii": "Bouhmama",
+    "commune_name": "بوحمامة",
+    "daira_name_ascii": "Bouhmama",
+    "daira_name": "بوحمامة",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1317,
+    "commune_name_ascii": "El Oueldja",
+    "commune_name": "الولجة",
+    "daira_name_ascii": "Chechar",
+    "daira_name": "ششار",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1322,
+    "commune_name_ascii": "M'sara",
+    "commune_name": "مصارة",
+    "daira_name_ascii": "Bouhmama",
+    "daira_name": "بوحمامة",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1312,
+    "commune_name_ascii": "Chechar",
+    "commune_name": "ششار",
+    "daira_name_ascii": "Chechar",
+    "daira_name": "ششار",
+    "wilaya_code": "40",
+    "wilaya_name_ascii": "Khenchela",
+    "wilaya_name": "خنشلة"
+},
+{
+    "id": 1349,
+    "commune_name_ascii": "Souk Ahras",
+    "commune_name": "سوق أهراس",
+    "daira_name_ascii": "Souk Ahras",
+    "daira_name": "سوق أهراس",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1329,
+    "commune_name_ascii": "Ain Soltane",
+    "commune_name": "عين سلطان",
+    "daira_name_ascii": "Sedrata",
+    "daira_name": "سدراتة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1347,
+    "commune_name_ascii": "Sedrata",
+    "commune_name": "سدراتة",
+    "daira_name_ascii": "Sedrata",
+    "daira_name": "سدراتة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1334,
+    "commune_name_ascii": "Hanencha",
+    "commune_name": "الحنانشة",
+    "daira_name_ascii": "Mechroha",
+    "daira_name": "المشروحة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1337,
+    "commune_name_ascii": "Machroha",
+    "commune_name": "المشروحة",
+    "daira_name_ascii": "Mechroha",
+    "daira_name": "المشروحة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1330,
+    "commune_name_ascii": "Ain Zana",
+    "commune_name": "عين الزانة",
+    "daira_name_ascii": "Ouled Driss",
+    "daira_name": "أولاد إدريس",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1341,
+    "commune_name_ascii": "Ouled Driss",
+    "commune_name": "أولاد إدريس",
+    "daira_name_ascii": "Ouled Driss",
+    "daira_name": "أولاد إدريس",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1351,
+    "commune_name_ascii": "Terraguelt",
+    "commune_name": "ترقالت",
+    "daira_name_ascii": "Oum El Adhaim",
+    "daira_name": "أم العظايم",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1343,
+    "commune_name_ascii": "Oum El Adhaim",
+    "commune_name": "أم العظايم",
+    "daira_name_ascii": "Oum El Adhaim",
+    "daira_name": "أم العظايم",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1340,
+    "commune_name_ascii": "Oued Kebrit",
+    "commune_name": "وادي الكبريت",
+    "daira_name_ascii": "Oum El Adhaim",
+    "daira_name": "أم العظايم",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1352,
+    "commune_name_ascii": "Tiffech",
+    "commune_name": "تيفاش",
+    "daira_name_ascii": "M'daourouche",
+    "daira_name": "مداوروش",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1345,
+    "commune_name_ascii": "Ragouba",
+    "commune_name": "الراقوبة",
+    "daira_name_ascii": "M'daourouche",
+    "daira_name": "مداوروش",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1332,
+    "commune_name_ascii": "Drea",
+    "commune_name": "الدريعة",
+    "daira_name_ascii": "Taoura",
+    "daira_name": "تاورة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1350,
+    "commune_name_ascii": "Taoura",
+    "commune_name": "تاورة",
+    "daira_name_ascii": "Taoura",
+    "daira_name": "تاورة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1353,
+    "commune_name_ascii": "Zaarouria",
+    "commune_name": "الزعرورية",
+    "daira_name_ascii": "Taoura",
+    "daira_name": "تاورة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1333,
+    "commune_name_ascii": "Haddada",
+    "commune_name": "الحدادة",
+    "daira_name_ascii": "Haddada",
+    "daira_name": "الحدادة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1335,
+    "commune_name_ascii": "Khedara",
+    "commune_name": "الخضارة",
+    "daira_name_ascii": "Haddada",
+    "daira_name": "الحدادة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1342,
+    "commune_name_ascii": "Ouled Moumen",
+    "commune_name": "أولاد مومن",
+    "daira_name_ascii": "Haddada",
+    "daira_name": "الحدادة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1339,
+    "commune_name_ascii": "Merahna",
+    "commune_name": "المراهنة",
+    "daira_name_ascii": "Merahna",
+    "daira_name": "المراهنة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1344,
+    "commune_name_ascii": "Ouillen",
+    "commune_name": "ويلان",
+    "daira_name_ascii": "Merahna",
+    "daira_name": "المراهنة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1348,
+    "commune_name_ascii": "Sidi Fredj",
+    "commune_name": "سيدي فرج",
+    "daira_name_ascii": "Merahna",
+    "daira_name": "المراهنة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1331,
+    "commune_name_ascii": "Bir Bouhouche",
+    "commune_name": "بئر بوحوش",
+    "daira_name_ascii": "Bir Bouhouche",
+    "daira_name": "بئر بوحوش",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1346,
+    "commune_name_ascii": "Safel El Ouiden",
+    "commune_name": "سافل الويدان",
+    "daira_name_ascii": "Bir Bouhouche",
+    "daira_name": "بئر بوحوش",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1336,
+    "commune_name_ascii": "Khemissa",
+    "commune_name": "خميسة",
+    "daira_name_ascii": "Sedrata",
+    "daira_name": "سدراتة",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1338,
+    "commune_name_ascii": "M'daourouche",
+    "commune_name": "مداوروش",
+    "daira_name_ascii": "M'daourouche",
+    "daira_name": "مداوروش",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1354,
+    "commune_name_ascii": "Zouabi",
+    "commune_name": "الزوابي",
+    "daira_name_ascii": "Bir Bouhouche",
+    "daira_name": "بئر بوحوش",
+    "wilaya_code": "41",
+    "wilaya_name_ascii": "Souk Ahras",
+    "wilaya_name": "سوق أهراس"
+},
+{
+    "id": 1369,
+    "commune_name_ascii": "Hadjout",
+    "commune_name": "حجوط",
+    "daira_name_ascii": "Hadjout",
+    "daira_name": "حجوط",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1375,
+    "commune_name_ascii": "Merad",
+    "commune_name": "مراد",
+    "daira_name_ascii": "Hadjout",
+    "daira_name": "حجوط",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1374,
+    "commune_name_ascii": "Menaceur",
+    "commune_name": "مناصر",
+    "daira_name_ascii": "Sidi Amar",
+    "daira_name": "سيدي أعمر",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1355,
+    "commune_name_ascii": "Aghbal",
+    "commune_name": "أغبال",
+    "daira_name_ascii": "Gouraya",
+    "daira_name": "قوراية",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1377,
+    "commune_name_ascii": "Nador",
+    "commune_name": "الناظور",
+    "daira_name_ascii": "Sidi Amar",
+    "daira_name": "سيدي أعمر",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1381,
+    "commune_name_ascii": "Sidi-Amar",
+    "commune_name": "سيدي عامر",
+    "daira_name_ascii": "Sidi Amar",
+    "daira_name": "سيدي أعمر",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1368,
+    "commune_name_ascii": "Gouraya",
+    "commune_name": "قوراية",
+    "daira_name_ascii": "Gouraya",
+    "daira_name": "قوراية",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1376,
+    "commune_name_ascii": "Messelmoun",
+    "commune_name": "مسلمون",
+    "daira_name_ascii": "Gouraya",
+    "daira_name": "قوراية",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1364,
+    "commune_name_ascii": "Cherchell",
+    "commune_name": "شرشال",
+    "daira_name_ascii": "Cherchell",
+    "daira_name": "شرشال",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1370,
+    "commune_name_ascii": "Hadjret Ennous",
+    "commune_name": "حجرة النص",
+    "daira_name_ascii": "Cherchell",
+    "daira_name": "شرشال",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1378,
+    "commune_name_ascii": "Sidi Ghiles",
+    "commune_name": "سيدي غيلاس",
+    "daira_name_ascii": "Cherchell",
+    "daira_name": "شرشال",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1365,
+    "commune_name_ascii": "Damous",
+    "commune_name": "الداموس",
+    "daira_name_ascii": "Damous",
+    "daira_name": "الداموس",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1373,
+    "commune_name_ascii": "Larhat",
+    "commune_name": "الأرهاط",
+    "daira_name_ascii": "Damous",
+    "daira_name": "الداموس",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1367,
+    "commune_name_ascii": "Fouka",
+    "commune_name": "فوكة",
+    "daira_name_ascii": "Fouka",
+    "daira_name": "فوكة",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1357,
+    "commune_name_ascii": "Ain Tagourait",
+    "commune_name": "عين تاقورايت",
+    "daira_name_ascii": "Bou Ismail",
+    "daira_name": "بواسماعيل",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1360,
+    "commune_name_ascii": "Bou Haroun",
+    "commune_name": "بوهارون",
+    "daira_name_ascii": "Bou Ismail",
+    "daira_name": "بواسماعيل",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1361,
+    "commune_name_ascii": "Bou Ismail",
+    "commune_name": "بواسماعيل",
+    "daira_name_ascii": "Bou Ismail",
+    "daira_name": "بواسماعيل",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1371,
+    "commune_name_ascii": "Khemisti",
+    "commune_name": "خميستي",
+    "daira_name_ascii": "Bou Ismail",
+    "daira_name": "بواسماعيل",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1356,
+    "commune_name_ascii": "Ahmer El Ain",
+    "commune_name": "أحمر العين",
+    "daira_name_ascii": "Ahmar El Ain",
+    "daira_name": "أحمر العين",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1362,
+    "commune_name_ascii": "Bourkika",
+    "commune_name": "بورقيقة",
+    "daira_name_ascii": "Ahmar El Ain",
+    "daira_name": "أحمر العين",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1366,
+    "commune_name_ascii": "Douaouda",
+    "commune_name": "دواودة",
+    "daira_name_ascii": "Fouka",
+    "daira_name": "فوكة",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1379,
+    "commune_name_ascii": "Sidi Rached",
+    "commune_name": "سيدي راشد",
+    "daira_name_ascii": "Ahmar El Ain",
+    "daira_name": "أحمر العين",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1358,
+    "commune_name_ascii": "Attatba",
+    "commune_name": "الحطاطبة",
+    "daira_name_ascii": "Kolea",
+    "daira_name": "القليعة",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1363,
+    "commune_name_ascii": "Chaiba",
+    "commune_name": "الشعيبة",
+    "daira_name_ascii": "Kolea",
+    "daira_name": "القليعة",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1372,
+    "commune_name_ascii": "Kolea",
+    "commune_name": "القليعة",
+    "daira_name_ascii": "Kolea",
+    "daira_name": "القليعة",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1380,
+    "commune_name_ascii": "Sidi Semiane",
+    "commune_name": "سيدي سميان",
+    "daira_name_ascii": "Cherchell",
+    "daira_name": "شرشال",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1382,
+    "commune_name_ascii": "Tipaza",
+    "commune_name": "تيبازة",
+    "daira_name_ascii": "Tipaza",
+    "daira_name": "تيبازة",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1359,
+    "commune_name_ascii": "Beni Mileuk",
+    "commune_name": "بني ميلك",
+    "daira_name_ascii": "Damous",
+    "daira_name": "الداموس",
+    "wilaya_code": "42",
+    "wilaya_name_ascii": "Tipaza",
+    "wilaya_name": "تيبازة"
+},
+{
+    "id": 1394,
+    "commune_name_ascii": "El Mechira",
+    "commune_name": "مشيرة",
+    "daira_name_ascii": "Teleghma",
+    "daira_name": "التلاغمة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1393,
+    "commune_name_ascii": "El Ayadi Barbes",
+    "commune_name": "العياضي برباس",
+    "daira_name_ascii": "Ain Beida Harriche",
+    "daira_name": "عين البيضاء أحريش",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1384,
+    "commune_name_ascii": "Ain Beida Harriche",
+    "commune_name": " عين البيضاء أحريش",
+    "daira_name_ascii": "Ain Beida Harriche",
+    "daira_name": "عين البيضاء أحريش",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1411,
+    "commune_name_ascii": "Tassala Lematai",
+    "commune_name": "تسالة لمطاعي",
+    "daira_name_ascii": "Terrai Bainen",
+    "daira_name": "ترعي باينان",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1410,
+    "commune_name_ascii": "Terrai Bainen",
+    "commune_name": "ترعي باينان",
+    "daira_name_ascii": "Terrai Bainen",
+    "daira_name": "ترعي باينان",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1387,
+    "commune_name_ascii": "Amira Arres",
+    "commune_name": "اعميرة اراس",
+    "daira_name_ascii": "Terrai Bainen",
+    "daira_name": "ترعي باينان",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1408,
+    "commune_name_ascii": "Tassadane Haddada",
+    "commune_name": "تسدان حدادة",
+    "daira_name_ascii": "Tassadane Haddada",
+    "daira_name": "تسدان حدادة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1399,
+    "commune_name_ascii": "Minar Zarza",
+    "commune_name": "مينار زارزة",
+    "daira_name_ascii": "Tassadane Haddada",
+    "daira_name": "تسدان حدادة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1406,
+    "commune_name_ascii": "Sidi Merouane",
+    "commune_name": "سيدي مروان",
+    "daira_name_ascii": "Sidi Merouane",
+    "daira_name": "سيدي مروان",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1391,
+    "commune_name_ascii": "Chigara",
+    "commune_name": "الشيقارة",
+    "daira_name_ascii": "Sidi Merouane",
+    "daira_name": "سيدي مروان",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1397,
+    "commune_name_ascii": "Hamala",
+    "commune_name": "حمالة",
+    "daira_name_ascii": "Grarem Gouga",
+    "daira_name": "القرارم قوقة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1396,
+    "commune_name_ascii": "Grarem Gouga",
+    "commune_name": "القرارم قوقة",
+    "daira_name_ascii": "Grarem Gouga",
+    "daira_name": "القرارم قوقة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1412,
+    "commune_name_ascii": "Tiberguent",
+    "commune_name": "تيبرقنت",
+    "daira_name_ascii": "Rouached",
+    "daira_name": "الرواشد",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1404,
+    "commune_name_ascii": "Rouached",
+    "commune_name": "الرواشد",
+    "daira_name_ascii": "Rouached",
+    "daira_name": "الرواشد",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1392,
+    "commune_name_ascii": "Derrahi Bousselah",
+    "commune_name": "دراحي بوصلاح",
+    "daira_name_ascii": "Bouhatem",
+    "daira_name": "بوحاتم",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1414,
+    "commune_name_ascii": "Zeghaia",
+    "commune_name": "زغاية",
+    "daira_name_ascii": "Oued Endja",
+    "daira_name": "وادي النجاء",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1401,
+    "commune_name_ascii": "Oued Endja",
+    "commune_name": "وادي النجاء",
+    "daira_name_ascii": "Oued Endja",
+    "daira_name": "وادي النجاء",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1383,
+    "commune_name_ascii": "Ahmed Rachedi",
+    "commune_name": "أحمد راشدي",
+    "daira_name_ascii": "Oued Endja",
+    "daira_name": "وادي النجاء",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1407,
+    "commune_name_ascii": "Tadjenanet",
+    "commune_name": "تاجنانت",
+    "daira_name_ascii": "Tadjenanet",
+    "daira_name": "تاجنانت",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1385,
+    "commune_name_ascii": "Ain Mellouk",
+    "commune_name": "عين الملوك",
+    "daira_name_ascii": "Chelghoum Laid",
+    "daira_name": "شلغوم العيد",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1403,
+    "commune_name_ascii": "Ouled Khalouf",
+    "commune_name": "أولاد اخلوف",
+    "daira_name_ascii": "Tadjenanet",
+    "daira_name": "تاجنانت",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1388,
+    "commune_name_ascii": "Benyahia Abderrahmane",
+    "commune_name": "بن يحي عبد الرحمن",
+    "daira_name_ascii": "Tadjenanet",
+    "daira_name": "تاجنانت",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1409,
+    "commune_name_ascii": "Teleghma",
+    "commune_name": "التلاغمة",
+    "daira_name_ascii": "Teleghma",
+    "daira_name": "التلاغمة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1402,
+    "commune_name_ascii": "Oued Seguen",
+    "commune_name": "وادي سقان",
+    "daira_name_ascii": "Teleghma",
+    "daira_name": "التلاغمة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1400,
+    "commune_name_ascii": "Oued Athmenia",
+    "commune_name": "وادي العثمانية",
+    "daira_name_ascii": "Chelghoum Laid",
+    "daira_name": "شلغوم العيد",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1386,
+    "commune_name_ascii": "Ain Tine",
+    "commune_name": "عين التين",
+    "daira_name_ascii": "Mila",
+    "daira_name": "ميلة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1390,
+    "commune_name_ascii": "Chelghoum Laid",
+    "commune_name": "شلغوم العيد",
+    "daira_name_ascii": "Chelghoum Laid",
+    "daira_name": "شلغوم العيد",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1413,
+    "commune_name_ascii": "Yahia Beniguecha",
+    "commune_name": "يحي بني قشة",
+    "daira_name_ascii": "Ferdjioua",
+    "daira_name": "فرجيوة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1395,
+    "commune_name_ascii": "Ferdjioua",
+    "commune_name": "فرجيوة",
+    "daira_name_ascii": "Ferdjioua",
+    "daira_name": "فرجيوة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1405,
+    "commune_name_ascii": "Sidi Khelifa",
+    "commune_name": "سيدي خليفة",
+    "daira_name_ascii": "Mila",
+    "daira_name": "ميلة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1398,
+    "commune_name_ascii": "Mila",
+    "commune_name": "ميلة",
+    "daira_name_ascii": "Mila",
+    "daira_name": "ميلة",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1389,
+    "commune_name_ascii": "Bouhatem",
+    "commune_name": "بوحاتم",
+    "daira_name_ascii": "Bouhatem",
+    "daira_name": "بوحاتم",
+    "wilaya_code": "43",
+    "wilaya_name_ascii": "Mila",
+    "wilaya_name": "ميلة"
+},
+{
+    "id": 1440,
+    "commune_name_ascii": "Khemis-Miliana",
+    "commune_name": "خميس مليانة",
+    "daira_name_ascii": "Khemis",
+    "daira_name": "خميس",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1446,
+    "commune_name_ascii": "Sidi-Lakhdar",
+    "commune_name": "سيدي الأخضر",
+    "daira_name_ascii": "Khemis",
+    "daira_name": "خميس",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1415,
+    "commune_name_ascii": "Ain-Benian",
+    "commune_name": "عين البنيان",
+    "daira_name_ascii": "Hammam Righa",
+    "daira_name": "حمام ريغة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1420,
+    "commune_name_ascii": "Ain-Torki",
+    "commune_name": "عين التركي",
+    "daira_name_ascii": "Hammam Righa",
+    "daira_name": "حمام ريغة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1437,
+    "commune_name_ascii": "Hammam-Righa",
+    "commune_name": "حمام ريغة",
+    "daira_name_ascii": "Hammam Righa",
+    "daira_name": "حمام ريغة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1429,
+    "commune_name_ascii": "Bourached",
+    "commune_name": "بوراشد",
+    "daira_name_ascii": "Djelida",
+    "daira_name": "جليدة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1439,
+    "commune_name_ascii": "Hoceinia",
+    "commune_name": "الحسينية",
+    "daira_name_ascii": "Boumedfaa",
+    "daira_name": "بومدفع",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1430,
+    "commune_name_ascii": "Djelida",
+    "commune_name": "جليدة",
+    "daira_name_ascii": "Djelida",
+    "daira_name": "جليدة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1421,
+    "commune_name_ascii": "Arib",
+    "commune_name": "عريب",
+    "daira_name_ascii": "El Amra",
+    "daira_name": "العامرة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1431,
+    "commune_name_ascii": "Djemaa Ouled Cheikh",
+    "commune_name": "جمعة أولاد الشيخ",
+    "daira_name_ascii": "Djelida",
+    "daira_name": "جليدة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1434,
+    "commune_name_ascii": "El-Amra",
+    "commune_name": "العامرة",
+    "daira_name_ascii": "El Amra",
+    "daira_name": "العامرة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1435,
+    "commune_name_ascii": "El-Attaf",
+    "commune_name": "العطاف",
+    "daira_name_ascii": "El Attaf",
+    "daira_name": "العطاف",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1449,
+    "commune_name_ascii": "Tiberkanine",
+    "commune_name": "تبركانين",
+    "daira_name_ascii": "El Attaf",
+    "daira_name": "العطاف",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1416,
+    "commune_name_ascii": "Ain-Bouyahia",
+    "commune_name": "عين بويحيى",
+    "daira_name_ascii": "El Abadia",
+    "daira_name": "العبادية",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1433,
+    "commune_name_ascii": "El-Abadia",
+    "commune_name": "العبادية",
+    "daira_name_ascii": "El Abadia",
+    "daira_name": "العبادية",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1447,
+    "commune_name_ascii": "Tacheta Zegagha",
+    "commune_name": "تاشتة زقاغة",
+    "daira_name_ascii": "El Abadia",
+    "daira_name": "العبادية",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1422,
+    "commune_name_ascii": "Birbouche",
+    "commune_name": "بربوش",
+    "daira_name_ascii": "Djendel",
+    "daira_name": "جندل",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1432,
+    "commune_name_ascii": "Djendel",
+    "commune_name": "جندل",
+    "daira_name_ascii": "Djendel",
+    "daira_name": "جندل",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1425,
+    "commune_name_ascii": "Ben Allal",
+    "commune_name": "بن علال",
+    "daira_name_ascii": "Miliana",
+    "daira_name": "مليانة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1443,
+    "commune_name_ascii": "Oued Chorfa",
+    "commune_name": "وادي الشرفاء",
+    "daira_name_ascii": "Djendel",
+    "daira_name": "جندل",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1428,
+    "commune_name_ascii": "Boumedfaa",
+    "commune_name": "بومدفع",
+    "daira_name_ascii": "Boumedfaa",
+    "daira_name": "بومدفع",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1418,
+    "commune_name_ascii": "Ain-Lechiakh",
+    "commune_name": "عين الاشياخ",
+    "daira_name_ascii": "Ain Lechiakh",
+    "daira_name": "عين الاشياخ",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1419,
+    "commune_name_ascii": "Ain-Soltane",
+    "commune_name": "عين السلطان",
+    "daira_name_ascii": "Ain Lechiakh",
+    "daira_name": "عين الاشياخ",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1444,
+    "commune_name_ascii": "Oued Djemaa",
+    "commune_name": "واد الجمعة",
+    "daira_name_ascii": "Ain Lechiakh",
+    "daira_name": "عين الاشياخ",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1436,
+    "commune_name_ascii": "El-Maine",
+    "commune_name": "الماين",
+    "daira_name_ascii": "Rouina",
+    "daira_name": "الروينة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1445,
+    "commune_name_ascii": "Rouina",
+    "commune_name": "الروينة",
+    "daira_name_ascii": "Rouina",
+    "daira_name": "الروينة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1450,
+    "commune_name_ascii": "Zeddine",
+    "commune_name": "زدين",
+    "daira_name_ascii": "Rouina",
+    "daira_name": "الروينة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1426,
+    "commune_name_ascii": "Bir-Ould-Khelifa",
+    "commune_name": "بئر ولد خليفة",
+    "daira_name_ascii": "Bordj El Emir Khaled",
+    "daira_name": "برج الأمير خالد",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1427,
+    "commune_name_ascii": "Bordj-Emir-Khaled",
+    "commune_name": "برج الأمير خالد",
+    "daira_name_ascii": "Bordj El Emir Khaled",
+    "daira_name": "برج الأمير خالد",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1448,
+    "commune_name_ascii": "Tarik-Ibn-Ziad",
+    "commune_name": "طارق بن زياد",
+    "daira_name_ascii": "Bordj El Emir Khaled",
+    "daira_name": "برج الأمير خالد",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1423,
+    "commune_name_ascii": "Bathia",
+    "commune_name": "بطحية",
+    "daira_name_ascii": "Bathia",
+    "daira_name": "بطحية",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1424,
+    "commune_name_ascii": "Belaas",
+    "commune_name": "بلعاص",
+    "daira_name_ascii": "Bathia",
+    "daira_name": "بطحية",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1438,
+    "commune_name_ascii": "Hassania",
+    "commune_name": "الحسانية",
+    "daira_name_ascii": "Bathia",
+    "daira_name": "بطحية",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1417,
+    "commune_name_ascii": "Ain-Defla",
+    "commune_name": "عين الدفلى",
+    "daira_name_ascii": "Ain Defla",
+    "daira_name": "عين الدفلى",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1442,
+    "commune_name_ascii": "Miliana",
+    "commune_name": "مليانة",
+    "daira_name_ascii": "Miliana",
+    "daira_name": "مليانة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1441,
+    "commune_name_ascii": "Mekhatria",
+    "commune_name": "المخاطرية",
+    "daira_name_ascii": "El Amra",
+    "daira_name": "العامرة",
+    "wilaya_code": "44",
+    "wilaya_name_ascii": "Aïn Defla",
+    "wilaya_name": "عين الدفلة"
+},
+{
+    "id": 1462,
+    "commune_name_ascii": "Tiout",
+    "commune_name": "تيوت",
+    "daira_name_ascii": "Ain Sefra",
+    "daira_name": "عين الصفراء",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1459,
+    "commune_name_ascii": "Moghrar",
+    "commune_name": "مغرار",
+    "daira_name_ascii": "Moghrar",
+    "daira_name": "مغرار",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1453,
+    "commune_name_ascii": "Asla",
+    "commune_name": "عسلة",
+    "daira_name_ascii": "Asla",
+    "daira_name": "عسلة",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1456,
+    "commune_name_ascii": "Kasdir",
+    "commune_name": "القصدير",
+    "daira_name_ascii": "Mekmen Ben Amar",
+    "daira_name": "مكمن بن عمار",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1457,
+    "commune_name_ascii": "Makmen Ben Amar",
+    "commune_name": "مكمن بن عمار",
+    "daira_name_ascii": "Mekmen Ben Amar",
+    "daira_name": "مكمن بن عمار",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1452,
+    "commune_name_ascii": "Ain Sefra",
+    "commune_name": "عين الصفراء",
+    "daira_name_ascii": "Ain Sefra",
+    "daira_name": "عين الصفراء",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1458,
+    "commune_name_ascii": "Mecheria",
+    "commune_name": "المشرية",
+    "daira_name_ascii": "Mecheria",
+    "daira_name": "المشرية",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1455,
+    "commune_name_ascii": "El Biodh",
+    "commune_name": "البيوض",
+    "daira_name_ascii": "Mecheria",
+    "daira_name": "المشرية",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1451,
+    "commune_name_ascii": "Ain Ben Khelil",
+    "commune_name": "عين بن خليل",
+    "daira_name_ascii": "Mecheria",
+    "daira_name": "المشرية",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1460,
+    "commune_name_ascii": "Naama",
+    "commune_name": "النعامة",
+    "daira_name_ascii": "Naama",
+    "daira_name": "النعامة",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1454,
+    "commune_name_ascii": "Djenienne Bourezg",
+    "commune_name": "جنين بورزق",
+    "daira_name_ascii": "Moghrar",
+    "daira_name": "مغرار",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1461,
+    "commune_name_ascii": "Sfissifa",
+    "commune_name": "سفيسيفة",
+    "daira_name_ascii": "Sfissifa",
+    "daira_name": "سفيسيفة",
+    "wilaya_code": "45",
+    "wilaya_name_ascii": "Naâma",
+    "wilaya_name": "النعامة"
+},
+{
+    "id": 1486,
+    "commune_name_ascii": "Sidi Boumediene",
+    "commune_name": "سيدي بومدين",
+    "daira_name_ascii": "Ain Larbaa",
+    "daira_name": "عين الأربعاء",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1489,
+    "commune_name_ascii": "Tamzoura",
+    "commune_name": "تامزورة",
+    "daira_name_ascii": "Ain Larbaa",
+    "daira_name": "عين الأربعاء",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1471,
+    "commune_name_ascii": "Chaabat El Ham",
+    "commune_name": "شعبة اللحم",
+    "daira_name_ascii": "El Maleh",
+    "daira_name": "المالح",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1474,
+    "commune_name_ascii": "El Maleh",
+    "commune_name": "المالح",
+    "daira_name_ascii": "El Maleh",
+    "daira_name": "المالح",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1483,
+    "commune_name_ascii": "Ouled Kihal",
+    "commune_name": "أولاد الكيحل",
+    "daira_name_ascii": "El Maleh",
+    "daira_name": "المالح",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1472,
+    "commune_name_ascii": "Chentouf",
+    "commune_name": "شنتوف",
+    "daira_name_ascii": "Hammam Bou Hadjar",
+    "daira_name": "حمام بوحجر",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1490,
+    "commune_name_ascii": "Terga",
+    "commune_name": "تارقة",
+    "daira_name_ascii": "El Maleh",
+    "daira_name": "المالح",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1481,
+    "commune_name_ascii": "Oued Sebbah",
+    "commune_name": "وادي الصباح",
+    "daira_name_ascii": "Ain Larbaa",
+    "daira_name": "عين الأربعاء",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1473,
+    "commune_name_ascii": "El Amria",
+    "commune_name": "العامرية",
+    "daira_name_ascii": "El Amria",
+    "daira_name": "العامرية",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1479,
+    "commune_name_ascii": "Hassi El Ghella",
+    "commune_name": "حاسي الغلة",
+    "daira_name_ascii": "El Amria",
+    "daira_name": "العامرية",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1482,
+    "commune_name_ascii": "Ouled Boudjemaa",
+    "commune_name": "أولاد بوجمعة",
+    "daira_name_ascii": "El Amria",
+    "daira_name": "العامرية",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1463,
+    "commune_name_ascii": "Aghlal",
+    "commune_name": "أغلال",
+    "daira_name_ascii": "Ain Kihel",
+    "daira_name": "عين الكيحل",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1465,
+    "commune_name_ascii": "Ain Kihal",
+    "commune_name": "عين الكيحل",
+    "daira_name_ascii": "Ain Kihel",
+    "daira_name": "عين الكيحل",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1467,
+    "commune_name_ascii": "Ain Tolba",
+    "commune_name": "عين الطلبة",
+    "daira_name_ascii": "Ain Kihel",
+    "daira_name": "عين الكيحل",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1468,
+    "commune_name_ascii": "Aoubellil",
+    "commune_name": "عقب الليل",
+    "daira_name_ascii": "Ain Kihel",
+    "daira_name": "عين الكيحل",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1469,
+    "commune_name_ascii": "Beni Saf",
+    "commune_name": "بني صاف",
+    "daira_name_ascii": "Beni Saf",
+    "daira_name": "بني صاف",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1478,
+    "commune_name_ascii": "Hassasna",
+    "commune_name": "الحساسنة",
+    "daira_name_ascii": "Hammam Bou Hadjar",
+    "daira_name": "حمام بوحجر",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1476,
+    "commune_name_ascii": "Emir Abdelkader",
+    "commune_name": "الأمير عبد القادر",
+    "daira_name_ascii": "Beni Saf",
+    "daira_name": "بني صاف",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1488,
+    "commune_name_ascii": "Sidi Safi",
+    "commune_name": "سيدي صافي",
+    "daira_name_ascii": "Beni Saf",
+    "daira_name": "بني صاف",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1484,
+    "commune_name_ascii": "Oulhaca El Gheraba",
+    "commune_name": "ولهاصة الغرابة",
+    "daira_name_ascii": "Oulhassa Gheraba",
+    "daira_name": "ولهاصة الغرابة",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1487,
+    "commune_name_ascii": "Sidi Ouriache",
+    "commune_name": "سيدي ورياش",
+    "daira_name_ascii": "Oulhassa Gheraba",
+    "daira_name": "ولهاصة الغرابة",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1464,
+    "commune_name_ascii": "Ain El Arbaa",
+    "commune_name": "عين الأربعاء",
+    "daira_name_ascii": "Ain Larbaa",
+    "daira_name": "عين الأربعاء",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1475,
+    "commune_name_ascii": "El Messaid",
+    "commune_name": "المساعيد",
+    "daira_name_ascii": "El Amria",
+    "daira_name": "العامرية",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1480,
+    "commune_name_ascii": "Oued Berkeche",
+    "commune_name": "وادي برقش",
+    "daira_name_ascii": "Hammam Bou Hadjar",
+    "daira_name": "حمام بوحجر",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1485,
+    "commune_name_ascii": "Sidi Ben Adda",
+    "commune_name": "سيدي بن عدة",
+    "daira_name_ascii": "Ain Temouchent",
+    "daira_name": "عين تموشنت",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1466,
+    "commune_name_ascii": "Ain Temouchent",
+    "commune_name": "عين تموشنت",
+    "daira_name_ascii": "Ain Temouchent",
+    "daira_name": "عين تموشنت",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1470,
+    "commune_name_ascii": "Bouzedjar",
+    "commune_name": "بوزجار",
+    "daira_name_ascii": "El Amria",
+    "daira_name": "العامرية",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1477,
+    "commune_name_ascii": "Hammam Bou Hadjar",
+    "commune_name": "حمام بوحجر",
+    "daira_name_ascii": "Hammam Bou Hadjar",
+    "daira_name": "حمام بوحجر",
+    "wilaya_code": "46",
+    "wilaya_name_ascii": "Aïn Témouchent",
+    "wilaya_name": "عين تيموشنت"
+},
+{
+    "id": 1493,
+    "commune_name_ascii": "Dhayet Bendhahoua",
+    "commune_name": "ضاية بن ضحوة",
+    "daira_name_ascii": "Dhayet Ben Dhahoua",
+    "daira_name": "ضاية بن ضحوة",
+    "wilaya_code": "47",
+    "wilaya_name_ascii": "Ghardaïa",
+    "wilaya_name": "غرداية"
+},
+{
+    "id": 1500,
+    "commune_name_ascii": "Mansoura",
+    "commune_name": "المنصورة",
+    "daira_name_ascii": "Mansourah",
+    "daira_name": "المنصورة",
+    "wilaya_code": "47",
+    "wilaya_name_ascii": "Ghardaïa",
+    "wilaya_name": "غرداية"
+},
+{
+    "id": 1494,
+    "commune_name_ascii": "El Atteuf",
+    "commune_name": "العطف",
+    "daira_name_ascii": "Bounoura",
+    "daira_name": "بونورة",
+    "wilaya_code": "47",
+    "wilaya_name_ascii": "Ghardaïa",
+    "wilaya_name": "غرداية"
+},
+{
+    "id": 1492,
+    "commune_name_ascii": "Bounoura",
+    "commune_name": "بونورة",
+    "daira_name_ascii": "Bounoura",
+    "daira_name": "بونورة",
+    "wilaya_code": "47",
+    "wilaya_name_ascii": "Ghardaïa",
+    "wilaya_name": "غرداية"
+},
+{
+    "id": 1503,
+    "commune_name_ascii": "Zelfana",
+    "commune_name": "زلفانة",
+    "daira_name_ascii": "Zelfana",
+    "daira_name": "زلفانة",
+    "wilaya_code": "47",
+    "wilaya_name_ascii": "Ghardaïa",
+    "wilaya_name": "غرداية"
+},
+{
+    "id": 1497,
+    "commune_name_ascii": "El Guerrara",
+    "commune_name": "القرارة",
+    "daira_name_ascii": "El Guerrara",
+    "daira_name": "القرارة",
+    "wilaya_code": "47",
+    "wilaya_name_ascii": "Ghardaïa",
+    "wilaya_name": "غرداية"
+},
+{
+    "id": 1502,
+    "commune_name_ascii": "Sebseb",
+    "commune_name": "سبسب",
+    "daira_name_ascii": "Metlili",
+    "daira_name": "متليلي",
+    "wilaya_code": "47",
+    "wilaya_name_ascii": "Ghardaïa",
+    "wilaya_name": "غرداية"
+},
+{
+    "id": 1501,
+    "commune_name_ascii": "Metlili",
+    "commune_name": "متليلي",
+    "daira_name_ascii": "Metlili",
+    "daira_name": "متليلي",
+    "wilaya_code": "47",
+    "wilaya_name_ascii": "Ghardaïa",
+    "wilaya_name": "غرداية"
+},
+{
+    "id": 1491,
+    "commune_name_ascii": "Berriane",
+    "commune_name": "بريان",
+    "daira_name_ascii": "Berriane",
+    "daira_name": "بريان",
+    "wilaya_code": "47",
+    "wilaya_name_ascii": "Ghardaïa",
+    "wilaya_name": "غرداية"
+},
+{
+    "id": 1496,
+    "commune_name_ascii": "Ghardaia",
+    "commune_name": "غرداية",
+    "daira_name_ascii": "Ghardaia",
+    "daira_name": "غرداية",
+    "wilaya_code": "47",
+    "wilaya_name_ascii": "Ghardaïa",
+    "wilaya_name": "غرداية"
+},
+{
+    "id": 1516,
+    "commune_name_ascii": "El-Guettar",
+    "commune_name": "القطار",
+    "daira_name_ascii": "Mazouna",
+    "daira_name": "مازونة",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1530,
+    "commune_name_ascii": "Ouled Aiche",
+    "commune_name": "أولاد يعيش",
+    "daira_name_ascii": "Ammi Moussa",
+    "daira_name": "عمي موسى",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1509,
+    "commune_name_ascii": "Beni Dergoun",
+    "commune_name": "بني درقن",
+    "daira_name_ascii": "Zemmoura",
+    "daira_name": "زمورة",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1511,
+    "commune_name_ascii": "Dar Ben Abdelah",
+    "commune_name": "دار بن عبد الله",
+    "daira_name_ascii": "Zemmoura",
+    "daira_name": "زمورة",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1541,
+    "commune_name_ascii": "Zemmoura",
+    "commune_name": "زمورة",
+    "daira_name_ascii": "Zemmoura",
+    "daira_name": "زمورة",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1512,
+    "commune_name_ascii": "Djidiouia",
+    "commune_name": "جديوية",
+    "daira_name_ascii": "Djidiouia",
+    "daira_name": "جديوية",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1519,
+    "commune_name_ascii": "Hamri",
+    "commune_name": "حمري",
+    "daira_name_ascii": "Djidiouia",
+    "daira_name": "جديوية",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1507,
+    "commune_name_ascii": "Belaassel Bouzagza",
+    "commune_name": "بلعسل بوزقزة",
+    "daira_name_ascii": "El Matmar",
+    "daira_name": "المطمر",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1517,
+    "commune_name_ascii": "El-Matmar",
+    "commune_name": "المطمر",
+    "daira_name_ascii": "El Matmar",
+    "daira_name": "المطمر",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1534,
+    "commune_name_ascii": "Sidi Khettab",
+    "commune_name": "سيدي  خطاب",
+    "daira_name_ascii": "El Matmar",
+    "daira_name": "المطمر",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1537,
+    "commune_name_ascii": "Sidi M'hamed Benaouda",
+    "commune_name": "سيدي امحمد بن عودة",
+    "daira_name_ascii": "El Matmar",
+    "daira_name": "المطمر",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1505,
+    "commune_name_ascii": "Ain-Tarek",
+    "commune_name": "عين طارق",
+    "daira_name_ascii": "Ain Tarek",
+    "daira_name": "عين طارق",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1518,
+    "commune_name_ascii": "Had Echkalla",
+    "commune_name": "حد الشكالة",
+    "daira_name_ascii": "Ain Tarek",
+    "daira_name": "عين طارق",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1515,
+    "commune_name_ascii": "El Ouldja",
+    "commune_name": "الولجة",
+    "daira_name_ascii": "Ammi Moussa",
+    "daira_name": "عمي موسى",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1522,
+    "commune_name_ascii": "Mazouna",
+    "commune_name": "مازونة",
+    "daira_name_ascii": "Mazouna",
+    "daira_name": "مازونة",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1504,
+    "commune_name_ascii": "Ain Rahma",
+    "commune_name": "عين الرحمة",
+    "daira_name_ascii": "Yellel",
+    "daira_name": "يلل",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1520,
+    "commune_name_ascii": "Kalaa",
+    "commune_name": "القلعة",
+    "daira_name_ascii": "Yellel",
+    "daira_name": "يلل",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1538,
+    "commune_name_ascii": "Sidi Saada",
+    "commune_name": "سيدي سعادة",
+    "daira_name_ascii": "Yellel",
+    "daira_name": "يلل",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1540,
+    "commune_name_ascii": "Yellel",
+    "commune_name": "يلل",
+    "daira_name_ascii": "Yellel",
+    "daira_name": "يلل",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1539,
+    "commune_name_ascii": "Souk El Had",
+    "commune_name": "سوق الحد",
+    "daira_name_ascii": "Ramka",
+    "daira_name": "الرمكة",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1524,
+    "commune_name_ascii": "Mendes",
+    "commune_name": "منداس",
+    "daira_name_ascii": "Mendes",
+    "daira_name": "منداس",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1528,
+    "commune_name_ascii": "Oued Essalem",
+    "commune_name": "وادي السلام",
+    "daira_name_ascii": "Mendes",
+    "daira_name": "منداس",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1535,
+    "commune_name_ascii": "Sidi Lazreg",
+    "commune_name": "سيدي لزرق",
+    "daira_name_ascii": "Mendes",
+    "daira_name": "منداس",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1506,
+    "commune_name_ascii": "Ammi Moussa",
+    "commune_name": "عمي موسى",
+    "daira_name_ascii": "Ammi Moussa",
+    "daira_name": "عمي موسى",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1526,
+    "commune_name_ascii": "Ouarizane",
+    "commune_name": "واريزان",
+    "daira_name_ascii": "Oued Rhiou",
+    "daira_name": "وادي رهيو",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1525,
+    "commune_name_ascii": "Merdja Sidi Abed",
+    "commune_name": "مرجة سيدي عابد",
+    "daira_name_ascii": "Oued Rhiou",
+    "daira_name": "وادي رهيو",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1531,
+    "commune_name_ascii": "Ouled Sidi Mihoub",
+    "commune_name": "أولاد سيدي الميهوب",
+    "daira_name_ascii": "Djidiouia",
+    "daira_name": "جديوية",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1508,
+    "commune_name_ascii": "Bendaoud",
+    "commune_name": "بن داود",
+    "daira_name_ascii": "Relizane",
+    "daira_name": "غليزان",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1529,
+    "commune_name_ascii": "Oued-Rhiou",
+    "commune_name": "وادي رهيو",
+    "daira_name_ascii": "Oued Rhiou",
+    "daira_name": "وادي رهيو",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1513,
+    "commune_name_ascii": "El Hassi",
+    "commune_name": "الحاسي",
+    "daira_name_ascii": "Ammi Moussa",
+    "daira_name": "عمي موسى",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1536,
+    "commune_name_ascii": "Sidi M'hamed Benali",
+    "commune_name": "سيدي أمحمد بن علي",
+    "daira_name_ascii": "Sidi M'hamed Ben Ali",
+    "daira_name": "سيدي أمحمد بن علي",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1523,
+    "commune_name_ascii": "Mediouna",
+    "commune_name": "مديونة",
+    "daira_name_ascii": "Sidi M'hamed Ben Ali",
+    "daira_name": "سيدي أمحمد بن علي",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1510,
+    "commune_name_ascii": "Beni Zentis",
+    "commune_name": "بني زنطيس",
+    "daira_name_ascii": "Sidi M'hamed Ben Ali",
+    "daira_name": "سيدي أمحمد بن علي",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1527,
+    "commune_name_ascii": "Oued El Djemaa",
+    "commune_name": "وادي الجمعة",
+    "daira_name_ascii": "El H'madna",
+    "daira_name": "الحمادنة",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1521,
+    "commune_name_ascii": "Lahlef",
+    "commune_name": "لحلاف",
+    "daira_name_ascii": "Oued Rhiou",
+    "daira_name": "وادي رهيو",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1533,
+    "commune_name_ascii": "Relizane",
+    "commune_name": "غليزان",
+    "daira_name_ascii": "Relizane",
+    "daira_name": "غليزان",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1514,
+    "commune_name_ascii": "El H'madna",
+    "commune_name": "الحمادنة",
+    "daira_name_ascii": "El H'madna",
+    "daira_name": "الحمادنة",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 1532,
+    "commune_name_ascii": "Ramka",
+    "commune_name": "الرمكة",
+    "daira_name_ascii": "Ramka",
+    "daira_name": "الرمكة",
+    "wilaya_code": "48",
+    "wilaya_name_ascii": "Relizane",
+    "wilaya_name": "غليزان"
+},
+{
+    "id": 25,
+    "commune_name_ascii": "Tinerkouk",
+    "commune_name": "تنركوك",
+    "daira_name_ascii": "Tinerkouk",
+    "daira_name": "تنركوك",
+    "wilaya_code": "49",
+    "wilaya_name_ascii": "Timimoun",
+    "wilaya_name": "تيميمون"
+},
+{
+    "id": 24,
+    "commune_name_ascii": "Timimoun",
+    "commune_name": "تيميمون",
+    "daira_name_ascii": "Timimoun",
+    "daira_name": "تيميمون",
+    "wilaya_code": "49",
+    "wilaya_name_ascii": "Timimoun",
+    "wilaya_name": "تيميمون"
+},
+{
+    "id": 15,
+    "commune_name_ascii": "Ouled Said",
+    "commune_name": "أولاد السعيد",
+    "daira_name_ascii": "Timimoun",
+    "daira_name": "تيميمون",
+    "wilaya_code": "49",
+    "wilaya_name_ascii": "Timimoun",
+    "wilaya_name": "تيميمون"
+},
+{
+    "id": 12,
+    "commune_name_ascii": "Metarfa",
+    "commune_name": "المطارفة",
+    "daira_name_ascii": "Aougrout",
+    "daira_name": "أوقروت",
+    "wilaya_code": "49",
+    "wilaya_name_ascii": "Timimoun",
+    "wilaya_name": "تيميمون"
+},
+{
+    "id": 19,
+    "commune_name_ascii": "Talmine",
+    "commune_name": "طالمين",
+    "daira_name_ascii": "Charouine",
+    "daira_name": "شروين",
+    "wilaya_code": "49",
+    "wilaya_name_ascii": "Timimoun",
+    "wilaya_name": "تيميمون"
+},
+{
+    "id": 14,
+    "commune_name_ascii": "Ouled Aissa",
+    "commune_name": "أولاد عيسى",
+    "daira_name_ascii": "Charouine",
+    "daira_name": "شروين",
+    "wilaya_code": "49",
+    "wilaya_name_ascii": "Timimoun",
+    "wilaya_name": "تيميمون"
+},
+{
+    "id": 7,
+    "commune_name_ascii": "Charouine",
+    "commune_name": "شروين",
+    "daira_name_ascii": "Charouine",
+    "daira_name": "شروين",
+    "wilaya_code": "49",
+    "wilaya_name_ascii": "Timimoun",
+    "wilaya_name": "تيميمون"
+},
+{
+    "id": 3,
+    "commune_name_ascii": "Aougrout",
+    "commune_name": "أوقروت",
+    "daira_name_ascii": "Aougrout",
+    "daira_name": "أوقروت",
+    "wilaya_code": "49",
+    "wilaya_name_ascii": "Timimoun",
+    "wilaya_name": "تيميمون"
+},
+{
+    "id": 8,
+    "commune_name_ascii": "Deldoul",
+    "commune_name": "دلدول",
+    "daira_name_ascii": "Aougrout",
+    "daira_name": "أوقروت",
+    "wilaya_code": "49",
+    "wilaya_name_ascii": "Timimoun",
+    "wilaya_name": "تيميمون"
+},
+{
+    "id": 11,
+    "commune_name_ascii": "Ksar Kaddour",
+    "commune_name": "قصر قدور",
+    "daira_name_ascii": "Tinerkouk",
+    "daira_name": "تنركوك",
+    "wilaya_code": "49",
+    "wilaya_name_ascii": "Timimoun",
+    "wilaya_name": "تيميمون"
+},
+{
+    "id": 23,
+    "commune_name_ascii": "Timiaouine",
+    "commune_name": "تيمياوين",
+    "daira_name_ascii": "Bordj Badji Mokhtar",
+    "daira_name": "برج باجي مختار",
+    "wilaya_code": "50",
+    "wilaya_name_ascii": "Bordj Badji Mokhtar",
+    "wilaya_name": "برج باجي مختار"
+},
+{
+    "id": 5,
+    "commune_name_ascii": "Bordj Badji Mokhtar",
+    "commune_name": "برج باجي مختار",
+    "daira_name_ascii": "Bordj Badji Mokhtar",
+    "daira_name": "برج باجي مختار",
+    "wilaya_code": "50",
+    "wilaya_name_ascii": "Bordj Badji Mokhtar",
+    "wilaya_name": "برج باجي مختار"
+},
+{
+    "id": 258,
+    "commune_name_ascii": "Ras El Miad",
+    "commune_name": "رأس الميعاد",
+    "daira_name_ascii": "Sidi Khaled",
+    "daira_name": "سيدي  خالد",
+    "wilaya_code": "51",
+    "wilaya_name_ascii": "Ouled Djellal",
+    "wilaya_name": "أولاد جلال"
+},
+{
+    "id": 232,
+    "commune_name_ascii": "Besbes",
+    "commune_name": "بسباس",
+    "daira_name_ascii": "Sidi Khaled",
+    "daira_name": "سيدي  خالد",
+    "wilaya_code": "51",
+    "wilaya_name_ascii": "Ouled Djellal",
+    "wilaya_name": "أولاد جلال"
+},
+{
+    "id": 259,
+    "commune_name_ascii": "Sidi Khaled",
+    "commune_name": "سيدي  خالد",
+    "daira_name_ascii": "Sidi Khaled",
+    "daira_name": "سيدي  خالد",
+    "wilaya_code": "51",
+    "wilaya_name_ascii": "Ouled Djellal",
+    "wilaya_name": "أولاد جلال"
+},
+{
+    "id": 240,
+    "commune_name_ascii": "Doucen",
+    "commune_name": "الدوسن",
+    "daira_name_ascii": "Ouled Djellal",
+    "daira_name": "أولاد جلال",
+    "wilaya_code": "51",
+    "wilaya_name_ascii": "Ouled Djellal",
+    "wilaya_name": "أولاد جلال"
+},
+{
+    "id": 237,
+    "commune_name_ascii": "Chaiba",
+    "commune_name": "الشعيبة",
+    "daira_name_ascii": "Ouled Djellal",
+    "daira_name": "أولاد جلال",
+    "wilaya_code": "51",
+    "wilaya_name_ascii": "Ouled Djellal",
+    "wilaya_name": "أولاد جلال"
+},
+{
+    "id": 255,
+    "commune_name_ascii": "Ouled Djellal",
+    "commune_name": "أولاد جلال",
+    "daira_name_ascii": "Ouled Djellal",
+    "daira_name": "أولاد جلال",
+    "wilaya_code": "51",
+    "wilaya_name_ascii": "Ouled Djellal",
+    "wilaya_name": "أولاد جلال"
+},
+{
+    "id": 265,
+    "commune_name_ascii": "Beni-Abbes",
+    "commune_name": "بني عباس",
+    "daira_name_ascii": "Beni Abbes",
+    "daira_name": "بني عباس",
+    "wilaya_code": "52",
+    "wilaya_name_ascii": "Béni Abbès",
+    "wilaya_name": "بني عباس"
+},
+{
+    "id": 282,
+    "commune_name_ascii": "Tamtert",
+    "commune_name": "تامترت",
+    "daira_name_ascii": "Beni Abbes",
+    "daira_name": "بني عباس",
+    "wilaya_code": "52",
+    "wilaya_name_ascii": "Béni Abbès",
+    "wilaya_name": "بني عباس"
+},
+{
+    "id": 271,
+    "commune_name_ascii": "Igli",
+    "commune_name": "إقلي",
+    "daira_name_ascii": "Igli",
+    "daira_name": "إقلي",
+    "wilaya_code": "52",
+    "wilaya_name_ascii": "Béni Abbès",
+    "wilaya_name": "بني عباس"
+},
+{
+    "id": 269,
+    "commune_name_ascii": "El Ouata",
+    "commune_name": "الواتة",
+    "daira_name_ascii": "El Ouata",
+    "daira_name": "الواتة",
+    "wilaya_code": "52",
+    "wilaya_name_ascii": "Béni Abbès",
+    "wilaya_name": "بني عباس"
+},
+{
+    "id": 279,
+    "commune_name_ascii": "Ouled-Khodeir",
+    "commune_name": "أولاد خضير",
+    "daira_name_ascii": "Ouled Khodeir",
+    "daira_name": "أولاد خضير",
+    "wilaya_code": "52",
+    "wilaya_name_ascii": "Béni Abbès",
+    "wilaya_name": "بني عباس"
+},
+{
+    "id": 273,
+    "commune_name_ascii": "Kerzaz",
+    "commune_name": "كرزاز",
+    "daira_name_ascii": "Kerzaz",
+    "daira_name": "كرزاز",
+    "wilaya_code": "52",
+    "wilaya_name_ascii": "Béni Abbès",
+    "wilaya_name": "بني عباس"
+},
+{
+    "id": 283,
+    "commune_name_ascii": "Timoudi",
+    "commune_name": "تيمودي",
+    "daira_name_ascii": "Kerzaz",
+    "daira_name": "كرزاز",
+    "wilaya_code": "52",
+    "wilaya_name_ascii": "Béni Abbès",
+    "wilaya_name": "بني عباس"
+},
+{
+    "id": 274,
+    "commune_name_ascii": "Ksabi",
+    "commune_name": "القصابي",
+    "daira_name_ascii": "Ouled Khodeir",
+    "daira_name": "أولاد خضير",
+    "wilaya_code": "52",
+    "wilaya_name_ascii": "Béni Abbès",
+    "wilaya_name": "بني عباس"
+},
+{
+    "id": 266,
+    "commune_name_ascii": "Beni-Ikhlef",
+    "commune_name": "بن يخلف",
+    "daira_name_ascii": "Kerzaz",
+    "daira_name": "كرزاز",
+    "wilaya_code": "52",
+    "wilaya_name_ascii": "Béni Abbès",
+    "wilaya_name": "بني عباس"
+},
+{
+    "id": 360,
+    "commune_name_ascii": "Inghar",
+    "commune_name": "إينغر",
+    "daira_name_ascii": "In Ghar",
+    "daira_name": "إينغر",
+    "wilaya_code": "53",
+    "wilaya_name_ascii": "In Salah",
+    "wilaya_name": "عين صالح"
+},
+{
+    "id": 357,
+    "commune_name_ascii": "Ain Salah",
+    "commune_name": "عين صالح",
+    "daira_name_ascii": "In Salah",
+    "daira_name": "عين صالح",
+    "wilaya_code": "53",
+    "wilaya_name_ascii": "In Salah",
+    "wilaya_name": "عين صالح"
+},
+{
+    "id": 358,
+    "commune_name_ascii": "Foggaret Ezzoua",
+    "commune_name": "فقارة الزوى",
+    "daira_name_ascii": "In Salah",
+    "daira_name": "عين صالح",
+    "wilaya_code": "53",
+    "wilaya_name_ascii": "In Salah",
+    "wilaya_name": "عين صالح"
+},
+{
+    "id": 363,
+    "commune_name_ascii": "Tin Zouatine",
+    "commune_name": "تين زواتين",
+    "daira_name_ascii": "Tin Zouatine",
+    "daira_name": "تين زواتين",
+    "wilaya_code": "54",
+    "wilaya_name_ascii": "In Guezzam",
+    "wilaya_name": "عين قزام"
+},
+{
+    "id": 356,
+    "commune_name_ascii": "Ain Guezzam",
+    "commune_name": "عين قزام",
+    "daira_name_ascii": "In Guezzam",
+    "daira_name": "عين قزام",
+    "wilaya_code": "54",
+    "wilaya_name_ascii": "In Guezzam",
+    "wilaya_name": "عين قزام"
+},
+{
+    "id": 1107,
+    "commune_name_ascii": "Temacine",
+    "commune_name": "تماسين",
+    "daira_name_ascii": "Temacine",
+    "daira_name": "تماسين",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1104,
+    "commune_name_ascii": "Sidi Slimane",
+    "commune_name": "سيدي سليمان",
+    "daira_name_ascii": "Megarine",
+    "daira_name": "المقارين",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1097,
+    "commune_name_ascii": "Megarine",
+    "commune_name": "المقارين",
+    "daira_name_ascii": "Megarine",
+    "daira_name": "المقارين",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1099,
+    "commune_name_ascii": "Nezla",
+    "commune_name": "النزلة",
+    "daira_name_ascii": "Touggourt",
+    "daira_name": "تقرت",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1091,
+    "commune_name_ascii": "Blidet Amor",
+    "commune_name": "بلدة اعمر",
+    "daira_name_ascii": "Temacine",
+    "daira_name": "تماسين",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1106,
+    "commune_name_ascii": "Tebesbest",
+    "commune_name": "تبسبست",
+    "daira_name_ascii": "Touggourt",
+    "daira_name": "تقرت",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1108,
+    "commune_name_ascii": "Touggourt",
+    "commune_name": "تقرت",
+    "daira_name_ascii": "Touggourt",
+    "daira_name": "تقرت",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1105,
+    "commune_name_ascii": "Taibet",
+    "commune_name": "الطيبات",
+    "daira_name_ascii": "Taibet",
+    "daira_name": "الطيبات",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1092,
+    "commune_name_ascii": "El Alia",
+    "commune_name": "العالية",
+    "daira_name_ascii": "El-Hadjira",
+    "daira_name": "الحجيرة",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1094,
+    "commune_name_ascii": "El-Hadjira",
+    "commune_name": "الحجيرة",
+    "daira_name_ascii": "El-Hadjira",
+    "daira_name": "الحجيرة",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1090,
+    "commune_name_ascii": "Benaceur",
+    "commune_name": "بن ناصر",
+    "daira_name_ascii": "Taibet",
+    "daira_name": "الطيبات",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1098,
+    "commune_name_ascii": "M'naguer",
+    "commune_name": "المنقر",
+    "daira_name_ascii": "Taibet",
+    "daira_name": "الطيبات",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1109,
+    "commune_name_ascii": "Zaouia El Abidia",
+    "commune_name": "الزاوية العابدية",
+    "daira_name_ascii": "Touggourt",
+    "daira_name": "تقرت",
+    "wilaya_code": "55",
+    "wilaya_name_ascii": "Touggourt",
+    "wilaya_name": "تقرت"
+},
+{
+    "id": 1161,
+    "commune_name_ascii": "Djanet",
+    "commune_name": "جانت",
+    "daira_name_ascii": "Djanet",
+    "daira_name": "جانت",
+    "wilaya_code": "56",
+    "wilaya_name_ascii": "Djanet",
+    "wilaya_name": "جانت"
+},
+{
+    "id": 1158,
+    "commune_name_ascii": "Bordj El Haouass",
+    "commune_name": "برج الحواس",
+    "daira_name_ascii": "Djanet",
+    "daira_name": "جانت",
+    "wilaya_code": "56",
+    "wilaya_name_ascii": "Djanet",
+    "wilaya_name": "جانت"
+},
+{
+    "id": 1296,
+    "commune_name_ascii": "Oum Touyour",
+    "commune_name": "أم الطيور",
+    "daira_name_ascii": "El Meghaier",
+    "daira_name": "المغير",
+    "wilaya_code": "57",
+    "wilaya_name_ascii": "El Meghaier",
+    "wilaya_name": "المغير"
+},
+{
+    "id": 1300,
+    "commune_name_ascii": "Sidi Amrane",
+    "commune_name": "سيدي عمران",
+    "daira_name_ascii": "Djamaa",
+    "daira_name": "جامعة",
+    "wilaya_code": "57",
+    "wilaya_name_ascii": "El Meghaier",
+    "wilaya_name": "المغير"
+},
+{
+    "id": 1293,
+    "commune_name_ascii": "M'rara",
+    "commune_name": "المرارة",
+    "daira_name_ascii": "Djamaa",
+    "daira_name": "جامعة",
+    "wilaya_code": "57",
+    "wilaya_name_ascii": "El Meghaier",
+    "wilaya_name": "المغير"
+},
+{
+    "id": 1281,
+    "commune_name_ascii": "Djamaa",
+    "commune_name": "جامعة",
+    "daira_name_ascii": "Djamaa",
+    "daira_name": "جامعة",
+    "wilaya_code": "57",
+    "wilaya_name_ascii": "El Meghaier",
+    "wilaya_name": "المغير"
+},
+{
+    "id": 1306,
+    "commune_name_ascii": "Tenedla",
+    "commune_name": "تندلة",
+    "daira_name_ascii": "Djamaa",
+    "daira_name": "جامعة",
+    "wilaya_code": "57",
+    "wilaya_name_ascii": "El Meghaier",
+    "wilaya_name": "المغير"
+},
+{
+    "id": 1284,
+    "commune_name_ascii": "El-M'ghaier",
+    "commune_name": "المغير",
+    "daira_name_ascii": "El Meghaier",
+    "daira_name": "المغير",
+    "wilaya_code": "57",
+    "wilaya_name_ascii": "El Meghaier",
+    "wilaya_name": "المغير"
+},
+{
+    "id": 1303,
+    "commune_name_ascii": "Still",
+    "commune_name": "سطيل",
+    "daira_name_ascii": "El Meghaier",
+    "daira_name": "المغير",
+    "wilaya_code": "57",
+    "wilaya_name_ascii": "El Meghaier",
+    "wilaya_name": "المغير"
+},
+{
+    "id": 1302,
+    "commune_name_ascii": "Sidi Khelil",
+    "commune_name": "سيدي خليل",
+    "daira_name_ascii": "El Meghaier",
+    "daira_name": "المغير",
+    "wilaya_code": "57",
+    "wilaya_name_ascii": "El Meghaier",
+    "wilaya_name": "المغير"
+},
+{
+    "id": 1495,
+    "commune_name_ascii": "El Meniaa",
+    "commune_name": "المنيعة",
+    "daira_name_ascii": "El Menia",
+    "daira_name": "المنيعة",
+    "wilaya_code": "58",
+    "wilaya_name_ascii": "El Menia",
+    "wilaya_name": "المنيعة"
+},
+{
+    "id": 1499,
+    "commune_name_ascii": "Hassi Gara",
+    "commune_name": "حاسي القارة",
+    "daira_name_ascii": "El Menia",
+    "daira_name": "المنيعة",
+    "wilaya_code": "58",
+    "wilaya_name_ascii": "El Menia",
+    "wilaya_name": "المنيعة"
+},
+{
+    "id": 1498,
+    "commune_name_ascii": "Hassi Fehal",
+    "commune_name": "حاسي الفحل",
+    "daira_name_ascii": "Mansourah",
+    "daira_name": "المنصورة",
+    "wilaya_code": "58",
+    "wilaya_name_ascii": "El Menia",
+    "wilaya_name": "المنيعة"
+}
+
+]

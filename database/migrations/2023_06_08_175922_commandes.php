@@ -18,6 +18,7 @@ class Commandes extends Migration
             $table->foreignId('magasin_id')->constrained('magasins');
             $table->foreignId('user_id')->constrained('users');
             $table->string('nombre')->unique();
+            $table->string('code');
             $table->enum('cas',['en attente','en cour','livrer','terminer','annuler','rembourser'])->default('en attente');
             $table->timestamps();
         });

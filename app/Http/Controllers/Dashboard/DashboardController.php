@@ -18,6 +18,7 @@ class DashboardController extends Controller
      */
     public function index()
     {
+        // return \App\Models\AlgeriaCity::whereWilayaCode(35)->get();
         $a=[
          'nbrV' => 0,
          'nbrP' => Produit::count(),
