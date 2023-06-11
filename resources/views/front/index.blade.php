@@ -161,7 +161,7 @@
 												class="fa fa-sign-in"></i>se connecter</a>
 									</div>
 									<div class="item">
-										<a href="user-register.html" title="Register Account"><i
+										<a href="{{ url('/register')}}" title="Register Account"><i
 												class="fa fa-user"></i>Register</a>
 									</div>
 									<!-- <div class="item">

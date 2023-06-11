@@ -13,7 +13,11 @@ Route::resource('commandes', CommandeController::class);
 Route::resource('fraudes', FraudeController::class);
 
 
+
+Route::post('/register', 'Dashboard\LoginController@postRegister')->name('admin.postRegister');
+
 Route::view('/','front.index')->name('/');
+Route::view('/register','Dashboard.auth.register')->name('register');
 Route::view('/login','Dashboard.auth.login')->name('/login');
 
 Route::get('/c', function() {
