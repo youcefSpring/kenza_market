@@ -201,6 +201,8 @@
                             </select>
                         </div>
                         <div>
+                        {{-- <input type="file" accept="image/*" capture="environnement"> --}}
+                        <br>
                             <label for="nom">Nom :</label>
                             <input class="form-control col-md-10" type="text" name="nom" id="nom" required >
                         </div>
