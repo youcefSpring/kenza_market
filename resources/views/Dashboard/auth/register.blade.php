@@ -35,10 +35,10 @@ span{
                     <div class="card-body">
                         <form class="form-horizontal form-simple" action="{{ route('admin.postRegister') }}" method="post"
                               autocomplete="off"
-                              novalidate>
+                             >
                             @csrf
                             <fieldset class="form-group position-relative has-icon-right mb-0">
-                                <input type="text" name="nom" class="form-control" dir="ltr" placeholder="Nom">
+                                <input type="text" name="nom" class="form-control" dir="ltr" placeholder="Nom" required>
                                 <div class="form-control-position">
                                     <i class="ft-user"></i>
                                 </div>
@@ -48,10 +48,11 @@ span{
                             </fieldset>
                             <br>
                             <fieldset class="form-group position-relative has-icon-right mb-0">
-                                <select name="id_commune" id="id_commune" class="form-control select2" dir="ltr">
+                                <select name="id_commune" id="id_commune" class="form-control select2" dir="ltr" required>
                                     @php
                                         $communes = App\Models\AlgeriaCity::whereWilayaCode(35)->get();
                                     @endphp
+                                    <option value="">Select Commune</option>
                                     @foreach ($communes as $c)
                                       <option value="{{$c->id}}">
                                         {{ $c->commune_name_ascii }}
@@ -67,7 +68,16 @@ span{
                                     $('.select2').selectize();
                                 });
                             </script>
-
+<br>
+<fieldset class="form-group position-relative has-icon-right mb-0">
+    <input type="email" name="email" class="form-control" dir="ltr" placeholder="Email" required>
+    <div class="form-control-position">
+        <i class="fa fa-email"></i>
+    </div>
+    @error('email')
+       <span class="text-danger">{{ $message }}</span>
+   @enderror
+</fieldset>
 <br>
                             <fieldset class="form-group position-relative has-icon-right mb-0">
                                 <input type="number" name="num_tel" class="form-control" dir="ltr" placeholder="Numéro de téléphone">
@@ -85,7 +95,7 @@ span{
                                     <option value="commercant">Commerçant</option>
                                     <option value="avocat">Avocat</option>
                                     <option value="anpcecom">ANPCECOM</option>
-                                    <option value="user_simple">Utilisateur simple</option>
+                                    <option value="user" selected>Utilisateur simple</option>
                                 </select>
                                 @error('type_user')
                                    <span class="text-danger">{{ $message }}</span>
@@ -94,7 +104,7 @@ span{
 <br>
                             <fieldset class="form-group position-relative has-icon-right">
                                 <input type="password" name="password" class="form-control form-control-lg input-lg"
-                                       id="user-password" dir="ltr" placeholder="Mot de passe">
+                                       id="user-password" dir="ltr" placeholder="Mot de passe" required>
                                 <div class="form-control-position">
                                     <i class="la la-key"></i>
                                 </div>
@@ -107,7 +117,7 @@ span{
     <input type="password" name="password_confirmation"
            id="password-confirm"
            class="form-control form-control-lg input-lg"
-           dir="ltr" placeholder="Confirmer le mot de passe">
+           dir="ltr" placeholder="Confirmer le mot de passe" required>
     <div class="form-control-position">
         <i class="la la-key"></i>
     </div>
@@ -139,7 +149,7 @@ span{
     });
 </script>
 
-<br>
+
                             <button type="submit" class="btn btn-primary btn-lg btn-block"><i class="ft-user-plus"></i>
                                 S'inscrire
                             </button>

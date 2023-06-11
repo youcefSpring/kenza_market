@@ -5,7 +5,8 @@ namespace App\Http\Controllers\Dashboard;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\AdminLoginRequest;
 use Illuminate\Support\Facades\Auth;
-
+use Illuminate\Http\Request;
+use App\Models\User;
 class LoginController extends Controller
 {
     public function login(){
@@ -40,6 +41,7 @@ class LoginController extends Controller
 
     public function postRegister(Request $request)
     {
+        // return $request;
         // Valider les données du formulaire d'inscription
         $validatedData = $request->validate([
             'nom' => 'required|string',
@@ -53,13 +55,14 @@ class LoginController extends Controller
         // Créer un nouvel utilisateur
         $user = new User();
         $user->nom = $validatedData['nom'];
-        $user->id_commune = $validatedData['id_commune'];
+        $user->algeria_city_id = $validatedData['id_commune'];
         $user->num_tel = $validatedData['num_tel'];
-        $user->type_user = $validatedData['type_user'];
+        $user->profil = $validatedData['type_user'];
         $user->email = $validatedData['email'];
-        $user->password = Hash::make($validatedData['password']);
+        $user->password = bcrypt($validatedData['password']);
         $user->save();
 
+        return $user;
         // Rediriger vers la page de connexion avec un message de succès
         return redirect()->url('')->with('success', 'Inscription réussie ! Veuillez vous connecter.');
     }

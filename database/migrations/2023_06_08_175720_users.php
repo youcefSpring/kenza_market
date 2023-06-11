@@ -15,7 +15,14 @@ class Users extends Migration
     {
         Schema::create('users', function (Blueprint $table) {
             $table->id();
-            // $table->foreignId('commune_id')->constrained('communes');
+            // $table->foreignId('algeria_city_id')->constrained("algeria_cities");
+
+              // Add the new column
+              $table->BigInteger('algeria_city_id')->nullable();
+
+              // Add the foreign key constraint
+            //   $table->foreign('algeria_city_id')->references('id')->on('algeria_cities');
+
             // $table->foreignId('magasin_id')->constrained('magasins');
             $table->string('nom');
             $table->string('prenom');
@@ -35,7 +42,7 @@ class Users extends Migration
 
             $table->rememberToken();
             //0 = clien ...
-            $table->bigInteger('profil')->default(0);
+            $table->string('profil')->default('user');
             $table->timestamp('last_vote')->nullable();
             $table->timestamps();
         });

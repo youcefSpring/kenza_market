@@ -12,11 +12,12 @@ class DatabaseSeeder extends Seeder
     // }
     public function run()
     {
-        // DB::table('users')->insert([
-        //     'nom' => Str::random(10),
-        //     'email' => 'admin@gmail.com',
-        //     'password' => Hash::make('admin@gmail.com'),
-        // ]);
+        DB::table('users')->insert([
+            'nom' => Str::random(10),
+            'email' => 'admin@gmail.com',
+            'profil' =>'admin',
+            'password' => Hash::make('admin@gmail.com'),
+        ]);
 
         $this->call(AlgeriaCitiesTableSeeder::class);
     }
