@@ -25,7 +25,7 @@ span{
                         </div>
                     </div>
                     <h6 class="card-subtitle line-on-side text-muted text-center font-small-3 pt-2">
-                        <span> تسجيل دخول  </span>
+                        <span> Login  </span>
                     </h6>
                 </div>
                 @include('Dashboard.includes.alerts.errors')

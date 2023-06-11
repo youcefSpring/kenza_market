@@ -12,7 +12,7 @@
 	<meta name="author" content="mekerri kenza">
 
 	<!-- icon de nav de navigateur -->
-	<link rel="shortcut icon" href="imgs/58_logo.png" type="image/png">
+	<link rel="shortcut icon" href="{{asset('front/imgs/58_logo.png')}}" type="image/png">
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -73,7 +73,7 @@
 							<!-- Logo -->
 							<div class="logo">
 								<a href="">
-									<img class="img-responsive" src="imgs/58_logo.png" alt="Logo">
+									<img class="img-responsive" src="{{asset('front/imgs/58_logo.png')}}" alt="Logo">
 								</a>
 							</div>
 
@@ -106,7 +106,7 @@
 												<tr>
 													<td class="product-image">
 														<a href="product-detail-left-sidebar.html">
-															<img src="img/product/6.jpg" alt="Product">
+															<img src="{{asset('front/img/product/6.jpg')}}" alt="Product">
 														</a>
 													</td>
 													<td>

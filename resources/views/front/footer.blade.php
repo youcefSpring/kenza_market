@@ -100,7 +100,7 @@
 		</div>
 
 		<!-- Page Loader -->
-		<div id="page-preloader">
+		{{-- <div id="page-preloader">
 			<div class="page-loading">
 				<div class="dot"></div>
 				<div class="dot"></div>
@@ -108,7 +108,7 @@
 				<div class="dot"></div>
 				<div class="dot"></div>
 			</div>
-		</div>
+		</div> --}}
 	</div>
 
 	<!-- Vendor JS -->
@@ -124,7 +124,7 @@
 	<script src="{{asset('front/libs/elevatezoom/jquery.elevatezoom.js')}}"></script>
 
 	<!-- Template CSS -->
-	<script src="js/main.js"></script>
+	<script src="{{asset('front/js/main.js')}}"></script>
 </body>
 
 
