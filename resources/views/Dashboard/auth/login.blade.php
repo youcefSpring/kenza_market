@@ -18,12 +18,12 @@ span{
         <div class="col-md-4 col-10 box-shadow-2 p-0">
             <div class="card border-grey border-lighten-3 m-0">
                 <div class="card-header border-0">
-                    <div class="card-title text-center">
+                    {{-- <div class="card-title text-center">
                         <div class="p-1">
                             <img src="{{asset('img/lg.PNG')}}" alt="LOGO" class="responsive" width="250" height="150"/>
 
                         </div>
-                    </div>
+                    </div> --}}
                     <h6 class="card-subtitle line-on-side text-muted text-center font-small-3 pt-2">
                         <span> Login  </span>
                     </h6>

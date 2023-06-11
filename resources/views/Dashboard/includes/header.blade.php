@@ -32,7 +32,7 @@
                         <a class="dropdown-toggle nav-link dropdown-user-link" href="#" data-toggle="dropdown">
                             <span class="mr-1">
                                 <img src="{{ asset('uploads/avatars/' . auth('admin')->user()->avatar) }}" class="" alt="Avatar" height="50" width="50" style="border-radius: 100%;">
-                                <span class="user-name text-bold-700">{{ auth('admin')->user()->nom }}</span>
+                                <span class="user-name text-bold-700">{{ auth('admin')->user()->name }}</span>
                             </span>
                         </a>
 

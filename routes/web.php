@@ -29,6 +29,9 @@ Route::get('/c', function() {
 Route::get('autocomplete', 'Dashboard\DocumentController@autocomplete')->name('autocomplete');
 Route::get('detail', 'Dashboard\DocumentController@detail')->name('doc_detail');
 
+/* New Added Routes */
+// Route::get('dashboard', [AuthController::class, 'dashboard'])->middleware(['auth', 'is_verify_email']);
+Route::get('account/verify/{token}','Dashboard\LoginController@verifyAccount')->name('user.verify');
 
 
 

@@ -38,7 +38,7 @@ span{
                              >
                             @csrf
                             <fieldset class="form-group position-relative has-icon-right mb-0">
-                                <input type="text" name="nom" class="form-control" dir="ltr" placeholder="Nom" required>
+                                <input type="text" name="name" class="form-control" dir="ltr" placeholder="Nom" required>
                                 <div class="form-control-position">
                                     <i class="ft-user"></i>
                                 </div>

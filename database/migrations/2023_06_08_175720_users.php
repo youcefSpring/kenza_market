@@ -24,8 +24,8 @@ class Users extends Migration
             //   $table->foreign('algeria_city_id')->references('id')->on('algeria_cities');
 
             // $table->foreignId('magasin_id')->constrained('magasins');
-            $table->string('nom');
-            $table->string('prenom');
+            $table->string('name');
+            // $table->string('prenom');
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');

@@ -40,8 +40,8 @@
                                                     <div class="col-md-6">
                                                         <div class="form-group">
                                                             <label for="projectinput1">Nom</label>
-                                                            <input type="text" value="{{ $user->nom }}" id="key"
-                                                                   class="form-control" placeholder="{{ $user->nom }}"
+                                                            <input type="text" value="{{ $user->name }}" id="key"
+                                                                   class="form-control" placeholder="{{ $user->name }}"
                                                                    name="name">
                                                             @error('name')
                                                             <span class="text-danger">{{ $message }}</span>

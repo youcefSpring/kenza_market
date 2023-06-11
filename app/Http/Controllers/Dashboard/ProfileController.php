@@ -21,7 +21,7 @@ class ProfileController extends Controller
     public function updateProfile(EditProfileAdmin $request){
         try {
             $admin = User::find(Auth::user()->id);
-            $admin->nom = $request->name;
+            $admin->name = $request->name;
             $admin->email = $request->email;
 
             if ($request->hasFile('image')) {
