@@ -240,7 +240,7 @@
                             @endphp
                             @foreach ( $categories as $c )
 								<li class="active">
-									<a data-toggle="tab" href="#all-products">
+									<a data-toggle="tab" href="#all-products{{$c->id}}">
 										<img src="{{asset('uploads/categories/'.$c->image)}}" alt="All Product">
 										<span>
                                             {{ $c->nom}}
@@ -257,16 +257,17 @@
 						</div>
 
 						<!-- Tab Content -->
-						<div class="tab-content">
+						{{-- <div class=""> --}}
 							<!-- All Products -->
-							<div role="tabpanel" class="tab-pane fade in active" id="all-products">
-								<div class="products owl-theme owl-carousel">
+							<div class="tab-nav" >
+								<div class="row">
+
 									<div class="product-group">
                                         @php
                                             $magasins=\App\Models\Magasin::all();
                                         @endphp
                                         @foreach ( $magasins as $m )
-                                        <div class="product-item" id="m".{{$m->id}}>
+                                        <div class="product-item col-md-4" id="m".{{$m->id}}>
 											<div class="product-image">
 												<a href="">
 													<img src="{{asset('uploads/magasins/'.$m->logo)}}" alt="Image de produit">
@@ -279,9 +280,6 @@
 													{{ $m->nom }}
 												</a>
 											</div>
-
-
-
 
 											<div class="product-buttons">
 
@@ -299,7 +297,7 @@
 							</div>
 
 
-						</div>
+						{{-- </div> --}}
 					</div>
 				</div>
 			</div>
