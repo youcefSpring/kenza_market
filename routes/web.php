@@ -12,6 +12,7 @@ Route::resource('categories', CategoryController::class);
 Route::resource('commandes', CommandeController::class);
 Route::resource('fraudes', FraudeController::class);
 
+Route::get('magasins/detail/{$id}','MagasinController@detail')->name('magasins.detail');
 
 
 Route::post('/register', 'Dashboard\LoginController@postRegister')->name('admin.postRegister');

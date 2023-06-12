@@ -77,4 +77,11 @@ class MagasinController extends Controller
 
         return redirect()->back()->with('success', 'Magasin supprimé avec succès.');
     }
+
+    public function show($id){
+        // return $id;
+     $magasin = Magasin::where('id', $id)->with('produits')->first();
+    //  return $magasin;
+     return view('front.detail',compact('magasin'));
+    }
 }

@@ -24,63 +24,63 @@ Route::group(['namespace' => 'Dashboard' , 'middleware'=> 'auth:admin', 'prefix'
   Route::get('delete/{id}','DocumentController@destroy')->name('admin.DocumentDelete');
 
 
-    Route::group(['prefix' => 'vendeur'], function () {
-        Route::get('/','VendorController@index')->name('admin.VendorList');
+    // Route::group(['prefix' => 'vendeur'], function () {
+    //     Route::get('/','VendorController@index')->name('admin.VendorList');
 
-        Route::get('create','VendorController@create')->name('admin.VendorCreate');
+    //     Route::get('create','VendorController@create')->name('admin.VendorCreate');
 
-        Route::post('store','VendorController@store')->name('admin.VendorStore');
+    //     Route::post('store','VendorController@store')->name('admin.VendorStore');
 
-        Route::get('edit/{id}','VendorController@edit')->name('admin.VendorEdit');
+    //     Route::get('edit/{id}','VendorController@edit')->name('admin.VendorEdit');
 
-        Route::post('update/{id}','VendorController@update')->name('admin.VendorUpdate');
+    //     Route::post('update/{id}','VendorController@update')->name('admin.VendorUpdate');
 
-        Route::get('delete/{id}','VendorController@delete')->name('admin.VendorDelete');
+    //     Route::get('delete/{id}','VendorController@delete')->name('admin.VendorDelete');
 
-        Route::get('changeStatus','VendorController@changeStatus')->name('admin.VendorChangeStatus');
+    //     Route::get('changeStatus','VendorController@changeStatus')->name('admin.VendorChangeStatus');
 
-        Route::get('/live_search/action', 'VendorController@action')->name('live_search.action');
-
-
-    });
-
-    Route::group(['prefix' => 'stock'], function () {
-        Route::get('/','StoreManagerController@index')->name('admin.StoreManagerList');
-
-        Route::get('create','StoreManagerController@create')->name('admin.StoreManagerCreate');
-
-        Route::post('store','StoreManagerController@store')->name('admin.StoreManagerStore');
-
-        Route::get('edit/{id}','StoreManagerController@edit')->name('admin.StoreManagerEdit');
-
-        Route::post('update/{id}','StoreManagerController@update')->name('admin.StoreManagerUpdate');
-
-        Route::get('delete/{id}','StoreManagerController@delete')->name('admin.StoreManagerDelete');
-
-        Route::get('changeStatus','StoreManagerController@changeStatus')->name('admin.StoreManagerChangeStatus');
-
-        Route::get('/live_search/action', 'StoreManagerController@action')->name('admin.searchStoreManager');
+    //     Route::get('/live_search/action', 'VendorController@action')->name('live_search.action');
 
 
-    });
+    // });
 
-    Route::group(['prefix' => 'product'], function () {
-        Route::view('/list','Dashboard.Products.index')->name('admin.ProductList');
-        Route::get('/live_search', 'ProductController@list')->name('admin.ProductSearch');
+    // Route::group(['prefix' => 'stock'], function () {
+    //     Route::get('/','StoreManagerController@index')->name('admin.StoreManagerList');
 
-    });
-    Route::group(['prefix' => 'sales'], function () {
+    //     Route::get('create','StoreManagerController@create')->name('admin.StoreManagerCreate');
 
-        Route::get('/list', 'SaleController@list')->name('admin.SaleList');
-        Route::get('/detail/{id}', 'SaleController@detail')->name('admin.SaleDetail');
+    //     Route::post('store','StoreManagerController@store')->name('admin.StoreManagerStore');
+
+    //     Route::get('edit/{id}','StoreManagerController@edit')->name('admin.StoreManagerEdit');
+
+    //     Route::post('update/{id}','StoreManagerController@update')->name('admin.StoreManagerUpdate');
+
+    //     Route::get('delete/{id}','StoreManagerController@delete')->name('admin.StoreManagerDelete');
+
+    //     Route::get('changeStatus','StoreManagerController@changeStatus')->name('admin.StoreManagerChangeStatus');
+
+    //     Route::get('/live_search/action', 'StoreManagerController@action')->name('admin.searchStoreManager');
 
 
-    });
-    Route::group(['prefix' => 'providers'], function () {
-        Route::view('/list','Dashboard.Providers.index')->name('admin.ProviderList');
-        Route::get('/live_search', 'ProviderController@list')->name('admin.ProviderSearch');
+    // });
 
-    });
+    // Route::group(['prefix' => 'product'], function () {
+    //     Route::view('/list','Dashboard.Products.index')->name('admin.ProductList');
+    //     Route::get('/live_search', 'ProductController@list')->name('admin.ProductSearch');
+
+    // });
+    // Route::group(['prefix' => 'sales'], function () {
+
+    //     Route::get('/list', 'SaleController@list')->name('admin.SaleList');
+    //     Route::get('/detail/{id}', 'SaleController@detail')->name('admin.SaleDetail');
+
+
+    // });
+    // Route::group(['prefix' => 'providers'], function () {
+    //     Route::view('/list','Dashboard.Providers.index')->name('admin.ProviderList');
+    //     Route::get('/live_search', 'ProviderController@list')->name('admin.ProviderSearch');
+
+    // });
     // Route::group(['prefix' => 'employee'], function () {
     //     Route::get('/import', 'ExcelImportController@importPage')->name('importEmployeeExcel');
     //     Route::post('/stocker','ExcelImportController@stockerExcel')->name('stockerEmployeeExcel');
@@ -92,7 +92,7 @@ Route::group(['namespace' => 'Dashboard' , 'middleware'=> 'auth:admin', 'prefix'
 
     });
     ##################### end Categories Routes ##########################
-    Route::resource('ajaxItems','EmployeeController');
+    // Route::resource('ajaxItems','EmployeeController');
 
 
 });
