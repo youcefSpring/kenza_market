@@ -285,7 +285,7 @@
 
 											<div class="product-buttons">
 
-												<a class="quickview" href="#">
+												<a class="quickview" href="{{route('magasins.show',$m->id)}}">
 													<i class="fa fa-eye" aria-hidden="true"></i>
 												</a>
 											</div>
