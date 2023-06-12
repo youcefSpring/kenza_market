@@ -9,7 +9,7 @@
         // Hide the success message after 2 seconds
         $(document).ready(function() {
             setTimeout(function() {
-                $(".btn-success").fadeOut("slow", function() {
+                $("#type-error").fadeOut("slow", function() {
                     $(this).remove();
                 });
             }, 500);
