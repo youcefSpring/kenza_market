@@ -240,7 +240,7 @@
                             @endphp
                             @foreach ( $categories as $c )
 								<li class="active">
-									<a data-toggle="tab" href="#all-products{{$c->id}}">
+									<a  href="{{ route('categories.show',$c->id)}}">
 										<img src="{{asset('uploads/categories/'.$c->image)}}" alt="All Product">
 										<span>
                                             {{ $c->nom}}

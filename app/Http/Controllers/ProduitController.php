@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Produit;
 use App\Models\User;
 use App\Models\Magasin;
+use App\Models\Category;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
 
@@ -16,8 +17,9 @@ class ProduitController extends Controller
         $produits = Produit::all();
         $magasins=Magasin::all();
         $users = User::all();
+        $categories = Category::all();
         // return $produits;
-        return view('Dashboard.produits.index', compact('produits','magasins','users'));
+        return view('Dashboard.produits.index', compact('produits','magasins','users','categories'));
     }
 
     public function create()
@@ -28,6 +30,7 @@ class ProduitController extends Controller
 
     public function store(Request $request)
     {
+        // return $request;
         $produit = Produit::create($request->all());
         if($request->hasFile('image')){
 

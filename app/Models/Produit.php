@@ -12,6 +12,7 @@ class Produit extends Model
 
     protected $fillable = [
         'magasin_id',
+        'category_id',
         'nom',
         'image',
         'prix',
@@ -22,5 +23,10 @@ class Produit extends Model
     public function magasin()
     {
         return $this->belongsTo(Magasin::class);
+    }
+
+    public function category()
+    {
+        return $this->belongsTo(Category::class);
     }
 }

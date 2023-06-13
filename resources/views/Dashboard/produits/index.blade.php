@@ -59,7 +59,7 @@
                                                 <th>Image</th>
                                                 <th>Nom</th>
                                                 <th>Magasin</th>
-                                                {{-- <th>Utilisateur</th> --}}
+                                                <th>Catégorie</th>
                                                 <th>Prix</th>
                                                 <th>Quantité</th>
                                                 <th>Actions</th>
@@ -71,7 +71,7 @@
                                                     <td><img src="{{ isset($produit->image) ? asset('uploads/produits/'.$produit->image) : asset('uploads/produits/prod_test.jpeg')}}" height="80" width="80" alt=""></td>
                                                     <td>{{ $produit->nom }}</td>
                                                     <td>{{ $produit->magasin->nom }}</td>
-                                                    {{-- <td>{{isset($produit->user)? $produit->user->name : ''}}</td> --}}
+                                                    <td>{{ $produit->category->nom}}</td>
                                                     <td>{{ $produit->prix }}</td>
                                                     <td>{{ $produit->quantite }}</td>
                                                     <td>
@@ -110,6 +110,15 @@
                                                                         <select name="magasin_id" id="magasin_id" class="form-control col-md-10">
                                                                             @foreach ($magasins as $magasin)
                                                                                 <option value="{{ $magasin->id }}" {{ $magasin->id === $produit->magasin_id ? 'selected' : '' }}>
+                                                                                    {{ $magasin->nom }}</option>
+                                                                            @endforeach
+                                                                        </select>
+                                                                    </div>
+                                                                    <div>
+                                                                        <label for="magasin_id">Catégorie :</label>
+                                                                        <select name="category_id" id="category_id" class="form-control col-md-10">
+                                                                            @foreach ($categories as $magasin)
+                                                                                <option value="{{ $magasin->id }}" {{ $magasin->id === $produit->category_id ? 'selected' : '' }}>
                                                                                     {{ $magasin->nom }}</option>
                                                                             @endforeach
                                                                         </select>
@@ -196,6 +205,14 @@
                             <label for="magasin_id">Magasin :</label>
                             <select name="magasin_id" id="magasin_id" class="form-control col-md-10">
                                 @foreach ($magasins as $magasin)
+                                    <option value="{{ $magasin->id }}">{{ $magasin->nom }}</option>
+                                @endforeach
+                            </select>
+                        </div>
+                        <div>
+                            <label for="magasin_id">Categorie :</label>
+                            <select name="category_id" id="category_id" class="form-control col-md-10">
+                                @foreach ($categories as $magasin)
                                     <option value="{{ $magasin->id }}">{{ $magasin->nom }}</option>
                                 @endforeach
                             </select>

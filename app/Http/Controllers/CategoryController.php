@@ -60,4 +60,11 @@ class CategoryController extends Controller
 
         return redirect()->route('categories.index')->with('success', 'Catégorie supprimée avec succès.');
     }
+
+    public function show($id){
+        $magasin = Category::where('id', $id)->with('produits')->first();
+    //  return $magasin;
+     return view('front.detail_category',compact('magasin'));
+    }
+
 }

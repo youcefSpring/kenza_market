@@ -15,7 +15,8 @@ class Magasins extends Migration
     {
         Schema::create('magasins', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('user_id') ->constrained('users','id')->cascadeOnDelete();
+            $table->BigInteger('user_id') ->default(1);
+            // $table->foreignId('user_id') ->constrained('users','id')->cascadeOnDelete();
             // $table->foreignId('commande_id') ->constrained('commandes','id')->nullOnDelete();
             $table->string('nom');
             $table->string('logo')->nullable();

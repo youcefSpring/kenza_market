@@ -16,7 +16,7 @@ class Produits extends Migration
         Schema::create('produits', function (Blueprint $table) {
             $table->id();
             $table->foreignId('magasin_id') ->constrained('magasins');
-            // $table->foreignId('categorie_id') ->constrained('categories')->nullOnDelete();
+            $table->foreignId('category_id')->constrained('categories');
             $table->string('nom');
             $table->string('image')->nullable();
             $table->float('prix')->defaulte(0);
