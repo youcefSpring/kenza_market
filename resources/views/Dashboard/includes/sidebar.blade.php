@@ -6,7 +6,7 @@
                         class="menu-title" data-i18n="nav.add_on_drag_drop.main">Tableau de bord  </span></a>
             </li>
 
-            @if(auth('admin')->user()->profil == "admin")
+            @if(in_array(auth('admin')->user()->profil ,['admin','commercant']))
 
             <li class="nav-item"><a href=""><i class="la la-barcode"></i>
                 <span class="menu-title" data-i18n="nav.dash.main"> Les produits</span>

@@ -29,7 +29,10 @@ class LoginController extends Controller
 
         if (auth()->guard($user)->attempt(['email' => $email, 'password' => $pwd],$remember_me))
          {
-
+            $s=auth('admin')->user()->status;
+            if($s != 1){
+                return redirect()->back()->with('error',"Vous êtes bloqué par l'admin ");
+            }
             // if(Auth::check()){
                 return redirect()->route($user.'.dashboard');
             //     }
