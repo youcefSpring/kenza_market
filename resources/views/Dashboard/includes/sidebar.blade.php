@@ -6,6 +6,7 @@
                         class="menu-title" data-i18n="nav.add_on_drag_drop.main">Tableau de bord  </span></a>
             </li>
 
+            @if(auth('admin')->user()->profil == "admin")
 
             <li class="nav-item"><a href=""><i class="la la-barcode"></i>
                 <span class="menu-title" data-i18n="nav.dash.main"> Les produits</span>
@@ -20,6 +21,7 @@
 
                     </ul>
         </li>
+        @endif
         <li class="nav-item"><a href=""><i class="la la-barcode"></i>
             <span class="menu-title" data-i18n="nav.dash.main"> Les magasins</span>
             <span {{-- class="badge badge badge-success badge-pill float-right mr-2">{{ \App\Models\Admin::count() }}</span> --}} </a>

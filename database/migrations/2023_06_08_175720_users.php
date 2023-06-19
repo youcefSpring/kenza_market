@@ -25,7 +25,7 @@ class Users extends Migration
 
             // $table->foreignId('magasin_id')->constrained('magasins');
             $table->string('name');
-            // $table->string('prenom');
+            $table->boolean('status')->default(1);
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
